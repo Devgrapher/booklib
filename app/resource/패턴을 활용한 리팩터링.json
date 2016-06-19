@@ -1,0 +1,41 @@
+{
+    "author": "조슈아 케리에브스키",
+    "link": "http://openapi.naver.com/l?AAADWMywqDMBREv+a6KYgxMZqFi+uLdtdN6bLUmhLrIyoqtF/fGBRmcTjDzLjI6RtDnkGUAkYWGCQM8hTExqdNCQEitQoBhTWBMaZLADlgehyI48CzVQgRcdQk37Ga5wEogl+YlFo3bv9c5eS+dLeLqtzhUcn5WbfuoMyiKOsKaMZZSLhPnTkmjHMahoFHAkKdLr4u7X3BVue+mX/UeiMX79c304hnjWb5B1t2hBzhAAAA",
+    "title": "패턴을 활용한 리팩터링",
+    "image": "http://bookthumb.phinf.naver.net/cover/064/716/06471623.jpg?type=m1&udate=20150725",
+    "publisher": "인사이트",
+    "quotes": [
+        {
+            "page": "37",
+            "text": "패턴과 리펙터링 사이에는 자연스런 관계가 있다. 패턴은 도달하고 싶은 곳이고, 리펙터링은 그곳으로 가는 방법이다. "
+        },
+        {
+            "page": "63",
+            "text": "패턴의 구조 다이어그램은 명세가 아니라 단지 예제일 뿐이라는 것은 아무리 강조해도 지나치지 않을 것 같다. ~ 구현상의 트레이드오프는 경우에 따라 다르고, 자신의 구현은 구조 다이어그램과 상당히 다르게 보일 수 있다. "
+        },
+        {
+            "page": "125",
+            "text": "Encapsulate Classes with factory 의 장점. 구현에 대해서가 아니라, 인터페이스에 대ㅐ 프로그래밍 하는 것이 된다. "
+        },
+        {
+            "page": "145",
+            "text": "Builder 패턴은 어떤 객체 구조를 생성하는 성가시고 복잡한 과정을 클라이언트 대신에 빌더 객체다 맡도록 하는 것이다. "
+        },
+        {
+            "page": "169",
+            "text": "모든 데이터는 적당한 컨텍스트에서 사용되어야 한다. 많은 객체지향 프로그래밍 기법이 컨텍스트를 정하고 그에 따라 변수의 생존 기간을 적절하게 조절해 필요한 동안만 존재하다가 우아하게 소멸될 수 있도록 하는 것이다. , 싱글턴에 대한 워드 커닝험의 견해 중. "
+        },
+        {
+            "page": "170",
+            "text": "싱글턴으 야기하는 진짜 문제는 어떤 객체의 가시 범위를 어떻게 정할지 크게 고민하지 않아도 되게 만든다는 점이다. , 켄트 백 "
+        },
+        {
+            "page": "171",
+            "text": "어떤 데이터를 파라메터로 받는 메서드 중의 90%가 그 파라메터를 직접적으로는 사용하지 않는다면(해당 호출 트리의 저 아래에서만 쓸때), 나는 레지스트리(싱글턴의 일종)를 도입한다. , 마틴 파울러 "
+        },
+        {
+            "page": "171",
+            "text": "전역 데이터는 반드시 필요하다는 것이 증명되기 전까지는그 필요성을 의심해야 한다. "
+        }
+    ]
+}

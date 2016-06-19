@@ -1,0 +1,17 @@
+{
+    "author": "헨릭 크니버그|마티아스 스카린",
+    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBREv+ayMSGFFkoXLHoL3WriwujGgFRLlIe1mvD3loRkFidzZt5f45YSagUoAAuoEZCACCABKaDara6QIBnUFRQJSLWOhA4uss7cS+v9DFRCqkPaaXrGY/MzLr5Nw1Z07QbXzvimf8WzDQ/d9h3QiqeEJVREvkxYnlPOM0KYINFQYpbax/LRe8wHfiS+GbU5ZepycOfw+wNUoradugAAAA==",
+    "title": "칸반과 스크럼",
+    "image": "http://bookthumb.phinf.naver.net/cover/072/041/07204139.jpg?type=m1&udate=20150825",
+    "publisher": "인사이트",
+    "quotes": [
+        {
+            "page": "80",
+            "text": "WIP리밋은 문제가 통제 불가능해지는 것을 막기 위해 존재한다. 따라서 모든 것이 순조롭게 진행된다면 WIP리밋은 실제로 사용되지 않는다. "
+        },
+        {
+            "page": "86",
+            "text": "스크럼은 교차 기능 팀을 규정하는 반면 칸반은 교차 기능 팀이 선택사항이다. 전문가 팀도 허용한다.  "
+        }
+    ]
+}

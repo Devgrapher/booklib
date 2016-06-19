@@ -1,0 +1,17 @@
+{
+    "author": "데이비드 반데보드|니콜라이 M. 조슈티스",
+    "link": "http://openapi.naver.com/l?AAAC2LsQqDMBiEn+Z3KYhNoiZDBmPMaBHauWiNJLQ2VtOKb98Iwg0f9919vnreeAlIhJygkkBTYOUOjAANIKDIQKjgChAJ0ASqEpgEQXbHcFhHZtYDN95PgAtAKqRz7hm/25+e44cbj6LvDrj32rf2FU8mPFRne8AyRZgkKI08P5Msw3lOGEI5ikYu7ZU0N3JppK0n52m9GqnGbV3aJfz+vVMM38IAAAA=",
+    "title": "C++ 템플릿 가이드",
+    "image": "http://bookthumb.phinf.naver.net/cover/052/340/05234025.jpg?type=m1&udate=20150728",
+    "publisher": "에이콘출판",
+    "quotes": [
+        {
+            "page": "38",
+            "text": "함수나 템플릿 인자에 대한 기본값은 직관적으로 근거가 있어야 한다. "
+        },
+        {
+            "page": "50",
+            "text": "템플릿 템플릿 파라메터 : 파라메터 자체가 템플릿 클래스가 됨 "
+        }
+    ]
+}

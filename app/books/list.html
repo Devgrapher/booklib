@@ -1,0 +1,15 @@
+<div class="home-view container">
+  <div ng-repeat="book in books" class="col-xs-12 col-sm-6 panel-group text-center">
+    <div class="panel panel-success"> 
+      <div class="panel-body">
+        <a ui-sref="book({bookId: book.id})">
+        <div class="col-xs-5 text-left">
+          <img class="book-img" ng-src="{{ensureImageLink(book.image)}}"></img>
+        </div>
+        <h4 class="text-left">{{book.title}}</h4>
+        <p class="text-left">{{book.author}}</p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

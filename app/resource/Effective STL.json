@@ -1,0 +1,65 @@
+{
+    "author": "Scott Meyers",
+    "link": "http://openapi.naver.com/l?AAACssTS2qtHVNS0tNLsksS9UODvFRyyhKTbPNKCkpUDV2VDVyA6Kk/PxsvbzEstQiveT8XKhAShKUEZ+SWpKYmaNXkAHU4ZaUmaJq7GJkaGRkaWSpVmJraGJmZmxubmJpZGZmqpZraxBpaOLhmlGen1dZ7Ao0waS80MXfMbPI3zMyIxCoEwB0adiCkgAAAA==",
+    "title": "Effective STL",
+    "image": "http://bookthumb.phinf.naver.net/cover/021/229/02122929.jpg?type=m1&udate=20120613",
+    "publisher": "정보문화사",
+    "quotes": [
+        {
+            "page": "46",
+            "text": "컨테이너 독립적인 코드를 짜려 애쓰지 말자. "
+        },
+        {
+            "page": "54",
+            "text": "size함수보다 empty함수가 빠를 수 있다. "
+        },
+        {
+            "page": "130",
+            "text": "swap.바꿔치기 묘수.\nstring s;\nstring(s).swap(s); "
+        },
+        {
+            "page": "131",
+            "text": "swap이후에도 반복자, 포인터, 참조자는 무효화 되지 않고 그대로 유지된다. "
+        },
+        {
+            "page": "132",
+            "text": "vector<bool>은 사실 컨테이너가 아니다. 내부적으로 비트필드 유지. "
+        },
+        {
+            "page": "133",
+            "text": "deque는 연속 메모리가 아니다 "
+        },
+        {
+            "page": "140",
+            "text": "컨테이너에 넣을때는 복사생성자를 신경쓰자.\n연관컨테이너는 상등성이 아닌 동등성을 기준으로 find를 수행한다. 반면 알고리즘의 find는 상등성 기준이다 "
+        },
+        {
+            "page": "150",
+            "text": "연관컨테이너의 비교함수는 두 값이 같을때 false를 리턴해야한다. "
+        },
+        {
+            "page": "161",
+            "text": "벡터는 검색이 필요하다면 가급적 정렬해서 쓰자. 바이너리 서치가 가능해짐. "
+        },
+        {
+            "page": "206",
+            "text": "일부분만 정렬할 거라면 partial_sort를 애용하자. 또는 nth_element "
+        },
+        {
+            "page": "211",
+            "text": "리스트에 임의접근하고 싶다면 list::iterator의 컨테이너를 만들어두자. "
+        },
+        {
+            "page": "214",
+            "text": "remove알고리즘은 요소를 실제로 삭제허진 않는다. 주의하자. "
+        },
+        {
+            "page": "230",
+            "text": "mismatch 알고리즘은 비교중 틀린것이 나오는 지점에서 반환한다. "
+        },
+        {
+            "page": "256",
+            "text": "ptr_fun은 단지 not1과같은 함수에서 필요한 typedef 몇 개를 추가할 뿐이다. 그래서 ptr_fun이 필요하다. "
+        }
+    ]
+}

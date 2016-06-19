@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="col-xs-12 col-sm-6 panel-group text-center">
+    <div class="panel panel-success"> 
+      <div class="panel-body">
+        <img ng-src="{{ensureImageLink(book.image)}}" class="phone col-xs-5 text-left"></img>
+        <h4 class="text-left">{{book.title}}</h4>
+        <p class="text-left">{{book.author}}</p>
+        <p class="text-left">{{book.publisher}}</p>
+      </div>
+    </div>
+  </div>
+
+  <uib-accordion close-others="false" class="col-xs-12">
+  	<uib-accordion-group ng-repeat="quote in book.quotes" panel-class="panel-success" class="quote-text">
+      <uib-accordion-heading>
+        <div class="quote-summary">{{getSummary(quote.text)}}</div>
+      </uib-accordion-heading>
+      <span>{{quote.text}}</span>
+      <span>- {{quote.page}}</span>
+  	</uib-accordion-group>
+  </uib-accordion>
+
+</div>

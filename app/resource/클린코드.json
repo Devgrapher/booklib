@@ -1,0 +1,49 @@
+{
+    "author": "로버트 C. 마틴",
+    "link": "http://openapi.naver.com/l?AAAC2LvQ6DIBgAn+ZzNCIWZGAQxMah7ezU+IPBir+lpr59TWNyw+WSWz563TmoFGIEIgIlICEgAlASRArsXxgGJj2z6pYb52bACYTZQTVNvT+Wm179ehrO0FSnPBvtys76szmOrOoawCnFLAhj6jmOIkIwpZcAhYh5A69fN2Lf+zWXS/8Y7ZhjZbevKYp7fXw/aGWKe6cAAAA=",
+    "title": "클린코드",
+    "image": "http://bookthumb.phinf.naver.net/cover/073/902/07390287.jpg?type=m1&udate=20150715",
+    "publisher": "인사이트",
+    "quotes": [
+        {
+            "page": "39",
+            "text": "나중은 절대 오지 않는다. - 르블랑의 법칙 "
+        },
+        {
+            "page": "40",
+            "text": "나쁜 코드의 위험을 이해하지 못하는 관리자의 말을 그대로 따르는 행동은 전문가답지 못하다. "
+        },
+        {
+            "page": "47",
+            "text": "○ 우리가 나쁜 코드의 책임을 외부로 떠넘길 수 없는 이유.\n 작게 추상화하라 "
+        },
+        {
+            "page": "48",
+            "text": "오브젝트 멘토 진영이 생각하는 클린코드를 설명한다. "
+        },
+        {
+            "page": "54",
+            "text": "변수나 함수나 클래스 이름은 다음과 같은 굵직한 질문에 모두 답해야 한다. \u000b변수의 존재 이유는? 수행 기능은? 사용 방법은? "
+        },
+        {
+            "page": "56",
+            "text": "그릇된 정보를 피하라.\n○ accountList라는 이름 대신 accountGroup, bunchOfAccunt, Accounts라고 명명한다."
+        },
+        {
+            "page": "62",
+            "text": "더 이상 접두어는 필요없다. IDE가 멤버변수를 구분하여 보여줄 것이다.\n○ 인터페이스에 접두어를 붙여서 접두어라고 알릴 필요는 없다.\n○ 차라리 구현 클래스의 이름을 바꾸어라. ~Impl "
+        },
+        {
+            "page": "66",
+            "text": "의미 있는 맥락을 추가하라( 맥락에 관한 접두어를 붙이기, addrFirstName, addrLastName, addrState) "
+        },
+        {
+            "page": "69",
+            "text": "불필요한 맥락을 없애랴 "
+        },
+        {
+            "page": "78",
+            "text": "함수당 추상화 수준은 하나로 통일 "
+        }
+    ]
+}

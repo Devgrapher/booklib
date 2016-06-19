@@ -1,0 +1,52 @@
+/* app css stylesheet */
+
+.title-item {
+  height: 30px;
+  vertical-align: middle;
+}
+
+.vcenter {
+  vertical-align: middle;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+a,
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .nav-justified > li {
+    display: table-cell;
+    width: 1%;
+  }
+  .nav-justified > li > a  {
+    border-bottom: 1px solid #ddd !important;
+    border-radius: 4px 4px 0 0 !important;
+    margin-bottom: 0 !important;
+  }
+  .nav-tabs.nav-justified > .active > a,
+  .nav-tabs.nav-justified > .active > a:hover,
+  .nav-tabs.nav-justified > .active > a:focus {
+    border-bottom-color: #fff !important;
+  }
+}
+
+.quote-summary{
+  text-overflow: ellipsis;
+  overflow: hidden;
+  /*white-space: nowrap;*/
+  font-weight: normal;
+  font-size: 0.9em;
+}
+
+
+.book-img {
+  height: 10em;
+  width: auto;
+}

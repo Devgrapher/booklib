@@ -1,0 +1,29 @@
+{
+    "author": "조영호",
+    "link": "http://openapi.naver.com/l?AAAC2Myw6CMBREv2bYmBBoC7QLFi2PuBATXxs3BgQDUQSxGvx7CyG5i5OZOff1qYZfiERCORAxkgiKQLEJZADuIIkhfEhvSsxA8NVEnEBGMyhINvsUKpo7wefIbD3zyaqH6hbWWvegEiQ1V3Td3X7m32qwr127BGWxwKWsdN487L42Rlo0JWgsXOYJn1s6dJnv0yBgghIWWG2oz11WrEHUmWz0m4zZcSvyvdyNB+8kjfkHxBpkrOEAAAA=",
+    "title": "객체지향의 사실과 오해",
+    "image": "http://bookthumb.phinf.naver.net/cover/091/459/09145968.jpg?type=m1&udate=20160218",
+    "publisher": "위키북스",
+    "quotes": [
+        {
+            "page": "30",
+            "text": "역할은 관련성 높은 책임의 집합이다. "
+        },
+        {
+            "page": "33",
+            "text": "객체의 자율성은 객체의 내부와 외부를 명확하게 구분하는 것으로부터 나온다. "
+        },
+        {
+            "page": "33",
+            "text": "객체는 상태와 행위를 하나의 단위로 묶는 자율적인 존재다. "
+        },
+        {
+            "page": "38",
+            "text": "중요한 것은 어떤 클래스가 필요한가가 아니라 어떤 객체들이 어떤 메세지를 주고받으며 협력하는가다. "
+        },
+        {
+            "page": 0,
+            "text": "\n객체향의 정수. 객체를 작은단위로 분리하고 그 객체들에 적절한 책임과 역할을 부여한 것."
+        }
+    ]
+}
