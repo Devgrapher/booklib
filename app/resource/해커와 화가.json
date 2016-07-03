@@ -1,8 +1,6 @@
 {
-    "author": "폴 그레이엄",
-    "link": "http://openapi.naver.com/l?AAAC2LsQqDMBRFv+a5FCQ1MfENGUzVjm7tWLQmJlSrlSj49w0i3OFwLue36mWXUBaAKSgG5Q2UgvwARMjI5fgQMKgcFAkqsos20no/A80hqcLaafrE32bTS/yexlN07QmvTvvGDfFsQ1G1rgNaCIrIsiTy8so4p0KkJKGERaMct54X686dyyoz9EZZ8qzF467qMnR/b1BrMLEAAAA=",
-    "title": "해커와 화가",
     "image": "http://bookthumb.phinf.naver.net/cover/073/994/07399482.jpg?type=m1&udate=20150715",
+    "author": "폴 그레이엄",
     "publisher": "한빛미디어",
     "quotes": [
         {
@@ -257,5 +255,8 @@
             "page": "346",
             "text": "화가가 작품을 완성하는 경우는 없다. 단지 그리는 작업을 멈출 뿐이다. "
         }
-    ]
+    ],
+    "title": "해커와 화가",
+    "pubdate": "2014-01-06",
+    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBBFv2bYmBAeLTCLLlpp/QFXbgxIpQSwSEaJf29DSO7i5Nyc98euPwG6BuSgGOgzKAVyB0SoktP+IWBQElQSVORW+xSOaIFcQmbCWu/H+NV87Ro//HyIrj3g3llqhileXChMO3SQ12WOyKosIpGyouQpVhyxTKJZXIrBauknxmjjdb/1hja6aXNNx9D9AY78LEexAAAA"
 }

@@ -1,13 +1,14 @@
 {
-    "author": "알레한드로 융거",
-    "link": "http://openapi.naver.com/l?AAAC2LQQvCIBhAf823o2g63cWDsu3SDlEQ1SVmOpRaLnHB+vXtMHiHx4P3mV1aJDQ1VAQ0g0aD4qBx4ZMbpM95Aqpg166YGJ/o3X9dQo84bsGaTe7W5T680OTXozXBAq055YwKUmRJGOdUiBITTKpilIOy16R/h9NZdTcfur0up8uRzUvP1u8PXrV5wZUAAAA=",
-    "title": "클린",
     "image": "http://bookthumb.phinf.naver.net/cover/063/643/06364371.jpg?type=m1&udate=20100914",
+    "author": "알레한드로 융거",
     "publisher": "쌤앤파커스",
     "quotes": [
         {
             "page": "53",
             "text": "지구를 하나의 유기체로 본다면 환경을 파괴하는 인간은 암세포와 다름 없다 "
         }
-    ]
+    ],
+    "title": "클린",
+    "pubdate": "2010-09-20",
+    "link": "http://openapi.naver.com/l?AAAC2LvQqDMBgAn+bLKIn5dchgUJe6WuhUYhN/2trYEAu+fR2EG46D+24+7hrqChQBw6A2UAowGE3RD3pKaQVaQt4c9CG8so/9+Zg9wnIG159ydz7Z+Z2t03E0/eyAVoIKRiVBSRMmJCeF4gXGDC16d63rQjtg76S6BMhNdWv41T75NnbH+Qdq9xOllwAAAA=="
 }

@@ -1,8 +1,6 @@
 {
-    "author": "칼릴 지브란|메리 해스켈",
-    "link": "http://openapi.naver.com/l?AAADWNTQ+CMAyGf025mJAhhXUHDhtC4sXoyY+LYYLBKIILGvHXOyYmPbxtnz59PCszJJApUCEohCwFwUGmY5AIhLMxEYEgl0Q2NhYnCWJazh2vxp0IHLQAYj88sgrnsvb0b/hR1qAip1J/p7I/vdpU56Tu+w5CCfPclm7bq38vXpXxT20zDUo9hWNZ9cXl5ne1vcj1pYRwETCGMXL0+iTAOA45RxFxRl6TpFv9WbMChx0X9WHYLKWht6GuXO3t4Rc33u7KEAEAAA==",
-    "title": "보여줄 수 있는 사랑은 아주 작습니다",
     "image": "http://bookthumb.phinf.naver.net/cover/100/464/10046474.jpg?type=m1&udate=20160401",
+    "author": "칼릴 지브란|메리 해스켈",
     "publisher": "진선BOOKS",
     "quotes": [
         {
@@ -13,5 +11,8 @@
             "page": "57",
             "text": "지적인 이들에게\n가장 확고한 결혼의 기반은\n우정입니다.\n진정한 관심사를 나누어 가지는 것\n서로 다른 생각에 대해서는\n논쟁하면서도\n서로의 사상과 이상을\n이해해 줄 수 있는\n힘.\n그것입니다. "
         }
-    ]
+    ],
+    "title": "보여줄 수 있는 사랑은 아주 작습니다",
+    "pubdate": "2016-01-18",
+    "link": "http://openapi.naver.com/l?AAADWNwQ6CMAyGn6ZcTAiTTroDhw0hmmg0nowXA4JiBKZkanx7x8Skh7/t16+PZ9V/YkgVqBAUQpqAiEAmQ5AIhJMhEYEgl0Q6NBYnCWJcTh2vhp1gDpoDBT+cW4VzWXvyN/woa1DcqdTfqexPr+6rc1wbc4dQwjSzVWh987v8VfX+SbfjoCzGcCwrk18b/17bi6y4lhDOWRDgDCP0TMxwFnEmiDMS6LVx81xxc9m+uwQ3fB3susVBUyYPe720h1+nBPpREAEAAA=="
 }

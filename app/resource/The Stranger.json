@@ -1,13 +1,14 @@
 {
-    "author": "할런 코벤",
-    "link": "http://openapi.naver.com/l?AAACssTS2qtA3JSNUOLilKzEtPLVLLKEpNs80oKSlQNXZUNXIDoqT8/Gy9vMSy1CK95PxcqEBKEpQRn5JakpiZo1eQAdThlpSZomrsYmFhYWJqaaZWYmtoYmZmbG5uYmlsaGqolmsbWuBvmWtSXhSWnR4aWOSX4euUFemelVuV7eIL1AcAsMMPTo8AAAA=",
-    "title": "The Stranger",
     "image": "http://bookthumb.phinf.naver.net/cover/088/845/08884596.jpg?type=m1&udate=20150402",
+    "author": "할런 코벤",
     "publisher": "PenguinGroupUSA",
     "quotes": [
         {
             "page": "0",
             "text": "인생 무상에 관한 내용이었던 걸까.\n주인공이 엄마의 죽음에도, 여자친구의 청혼에도 무심한 모습으로 일관했던 것들, 그러면서 그들에게 마음이 없던건 아니었던 사실들은 인생 무상을 깨달은 남자의 모습을 보여주기 위한 것일까.\nEverybody were privileged. 라고 얘기한건 우리 모두 죽을 운명을 타고났기 때문이었던것일까.\n그냥 유별나보였던 한 청년의 사이코패스적인 행동들은 인생의 한 단면을 꽤뚫고 있음에서 표출된 행동이었다.\n"
         }
-    ]
+    ],
+    "title": "The Stranger",
+    "pubdate": "2015-03-24",
+    "link": "http://openapi.naver.com/l?AAACssTS2qtA3JSNUOLilKzEtPLVLLKEpNs80oKSlQNXZUNXIDoqT8/Gy9vMSy1CK95PxcqEBKEpQRn5JakpiZo1eQAdThlpSZomrsYmFhYWJqaaZWYmtoYmZuamhpYWJhbmGhlmtbERgC1GcUlu6YHJBokVOWGuLpFeoYGZ7hVZiVD9QJAIlIgt6RAAAA"
 }

@@ -1,8 +1,6 @@
 {
-    "author": "로버트 C. 마틴",
-    "link": "http://openapi.naver.com/l?AAAC2LvQ6DIBgAn+ZzNCIWZGAQxMah7ezU+IPBir+lpr59TWNyw+WSWz563TmoFGIEIgIlICEgAlASRArsXxgGJj2z6pYb52bACYTZQTVNvT+Wm179ehrO0FSnPBvtys76szmOrOoawCnFLAhj6jmOIkIwpZcAhYh5A69fN2Lf+zWXS/8Y7ZhjZbevKYp7fXw/aGWKe6cAAAA=",
-    "title": "클린코드",
     "image": "http://bookthumb.phinf.naver.net/cover/073/902/07390287.jpg?type=m1&udate=20150715",
+    "author": "로버트 C. 마틴",
     "publisher": "인사이트",
     "quotes": [
         {
@@ -45,5 +43,8 @@
             "page": "78",
             "text": "함수당 추상화 수준은 하나로 통일 "
         }
-    ]
+    ],
+    "title": "클린코드",
+    "pubdate": "2013-12-24",
+    "link": "http://openapi.naver.com/l?AAAC2LQQuCMBhAf83nUZxTtx12aDohgqhL1Cm2tuEondky+vdJCO/wePCebzt9OcgGKAJRgBSwqUBkIGsQDbB/YRhYnXSTdbyLcQS8gbxd0CHc00HNdkpvoV+D0atcjY3KP9KxW45WewO4IZhlOSVJ5KioSIkYLRnKadLzl/GtU2Q4HbafsN9Jf9R4doqe3WX5frGMxKqnAAAA"
 }

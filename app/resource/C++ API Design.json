@@ -1,8 +1,6 @@
 {
-    "author": "Reddy|Martin",
-    "link": "http://openapi.naver.com/l?AAACssTS2qtHVWNXICIm3HAE9tl9TizPQ8tYyi1DTbjJKSAlVjR1UjNyBKys/P1stLLEst0kvOz4UKpCRBGfEpqSWJmTl6BRlAHW5JmSmqxi5mZmbGRgbGaiW2hiZAprm5iaWRgbmpWq5tekhIWmp6TkkQULeXd1qUR0ZYcIRnGNANVS5ZRZ5AvQAqzalHmQAAAA==",
-    "title": "C++ API Design",
     "image": "http://bookthumb.phinf.naver.net/cover/066/632/06663203.jpg?type=m1&udate=20141125",
+    "author": "Reddy|Martin",
     "publisher": "MorganKaufmannPublishers",
     "quotes": [
         {
@@ -137,5 +135,8 @@
             "page": "386",
             "text": "이진 호환성이란 n버전의 api를 사용해서 구현한 애플리케이션에 단순히 n+1 버전의 api를 복사해 넣거나 새로운 버전의 동적 api 라이브러리를 링크시키는 것만으로도 제대로 동작하는 것을 말한다. "
         }
-    ]
+    ],
+    "title": "C++ API Design",
+    "pubdate": "2011-01-01",
+    "link": "http://openapi.naver.com/l?AAACssTS2qtHVWNXICIm3HAE9tl9TizPQ8tYyi1DTbjJKSAlVjR1UjNyBKys/P1stLLEst0kvOz4UKpCRBGfEpqSWJmTl6BRlAHW5JmSmqxi5mZmbGRgbGaiW2hiZm5qaGlhYmQNJCLdfWz6fSJL2ovDwjJDnDxcnVLNQo0aDcyS3DoCwUqA8APOGATZUAAAA="
 }

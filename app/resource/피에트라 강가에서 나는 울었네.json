@@ -1,8 +1,6 @@
 {
-    "author": "파울로 코엘료",
-    "link": "http://openapi.naver.com/l?AAAE2MPQ+CMBiEf82xmJBCK+07MPBR4uJgXNgMSAnED5BUjf/eCgwm73Dv3XP3eJrpE0PnIIE0g85AEsR+jkqQKugUlLtoA+1+BtquQrE/OoMSoB+UQoWguecGSGxmapmacbVkAonwusm0cWftCJ4gLNzVw3Dx79XLTP55uK1GU6/i1Bhb9Vd/7FyjqPsGPA9CLiX3bByIKHJyy8KAce8WR4aVtuJiXw7ymqloao/E5a57H7SrfQH+L3Ea+gAAAA==",
-    "title": "피에트라 강가에서 나는 울었네",
     "image": "http://bookthumb.phinf.naver.net/cover/001/237/00123773.jpg?type=m1&udate=20130629",
+    "author": "파울로 코엘료",
     "publisher": "문학동네",
     "quotes": [
         {
@@ -45,5 +43,8 @@
             "page": "0",
             "text": "네가 강가에 서 있으면, 나는 네 곁에 서 있을 거야.\n네가 잠들면, 나는 네 문 앞에서 잠들거야.\n그리고 네가 멀리 떠나면, 난  네 발자국을 쫓을거야.\n네가 사라져 버리라고 말할 때까지.\n그럼 난 떠나겠지.\n하지만 죽는 날까지 널 사랑할거야. "
         }
-    ]
+    ],
+    "title": "피에트라 강가에서 나는 울었네",
+    "pubdate": "2003-05-03",
+    "link": "http://openapi.naver.com/l?AAAE2MvQ6CQBCEn2ZoTAhwB9wWFPwchUYTO2NjQCAgIoonhrf3RAqTLWZnvpnHqxymADIBcUQxZAzyQdbXESEiARmBEh2tIPVvgdxFCOuPjiE46AtFEA5o7ukB4quZ+k3NuPhlHCE36qGsglqpO1gIJ9WX931r3rKxHMxz3y1GkS/iVJQqa67mvdaNNG8KsMR2mO8zQwU293zXJuGS8FyjC7xsUx93VdMe+Dr25OXNVbJ9ptN42+vaB/DguiD6AAAA"
 }

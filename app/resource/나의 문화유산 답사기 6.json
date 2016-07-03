@@ -1,8 +1,6 @@
 {
-    "author": "유홍준",
-    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBBFv2bYmBBoSx8LFi0PXerWjSlSAhEEm2rk7x0MySzunHvP6+38mkNlQBJQEqoCVInhsCFdgEGEvwLF/l0BOtkCrk3yH0kDJtsRCpXeHOx41HvX5X0IC1ANpMZr5vkRP+3H+fg+Tztomz3cWhfsMMZLj0bdDC3QknOSCSaikKeMcyoEU1SyNJryjAYrzt+RJMdwItfUW+v0CsRcOlqh+QNUkfc92gAAAA==",
-    "title": "나의 문화유산 답사기 6",
     "image": "http://bookthumb.phinf.naver.net/cover/066/257/06625747.jpg?type=m1&udate=20110930",
+    "author": "유홍준",
     "publisher": "창비",
     "quotes": [
         {
@@ -45,5 +43,8 @@
             "page": "153",
             "text": "백남준의 말을 빌리든, 한 중년의 신사의 고함을 인용하든 현대미술을 일컬어 사기라고 해도 좋다. 그러나 여기서 말하는 사기란 비자금 파문을 일으키는 정치꾼이나 장사꾼의 그것과는 아주 다르다. 애교있고 악의없는, 그래서 우리 정서의 환기에 매우 유익한 것이다. 예술은 사기이되 이유있는 사기인 것이다. "
         }
-    ]
+    ],
+    "title": "나의 문화유산 답사기 6",
+    "pubdate": "2011-05-11",
+    "link": "http://openapi.naver.com/l?AAAC2LyQqDQBBEv6a9BMRttoOHGUcTEAIht1yCy8hINBpRSf4+rQh9qH5V77OY6RdDqoAHIDikCQiN4bQhmYBChL8AEe1dAtLbAq6Vt4+4AkUOhEIqNwc76tjJNLGd5xFCCUGGVw7Dy30Xq5ncaugPUJdHeNZmLtrOHS0aWdnWEGpKA8Ii5syxH1FGfMEjwXzq9LFpl/N9CS3JV/Rze3tcrlp/w4bprkLzDw4v+nraAAAA"
 }

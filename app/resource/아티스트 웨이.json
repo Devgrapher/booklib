@@ -1,8 +1,6 @@
 {
-    "author": "줄리아 카메론",
-    "link": "http://openapi.naver.com/l?AAAC2LvQ6CMBRGn+aymBCxhd4OHVp+No1ubAZstUQQaKrGt7ciyTecnHxnfhr3EVDmwFNACmUBqEBtfwYlyL+RoHCznBRIXKAARSPrzFVY7ycgEnZVWDuO9/jRvIyLL+OwCt2ucNbGN10fTzYUVdtpIEVCKEkx8iKhWUYYo5whp9Eg+onnF8uMOtYhH5r5fajdfrZ4I/oUwi+GlRgnuwAAAA==",
-    "title": "아티스트 웨이",
     "image": "http://bookthumb.phinf.naver.net/cover/001/343/00134358.jpg?type=m1&udate=20110328",
+    "author": "줄리아 카메론",
     "publisher": "경당",
     "quotes": [
         {
@@ -25,5 +23,8 @@
             "page": "334",
             "text": "어떤 천체의 중력에서 벗어나는 데 필요한 최소한의 속도를 탈출속도라고 하는데, 우리도 살아가면서 탈출속도에 다다를 때가 있다. … 탈출속도에 도달하기 위해서는 자신만의 충고자를 두는 법을, 회의주의자들 사이에서 조용히 움직이는 법을, 동지들끼리만 계획을 이야기하는 법을, 신중하게 동지를 가려내는 법을 알아야 한다. "
         }
-    ]
+    ],
+    "title": "아티스트 웨이",
+    "pubdate": "2003-11-20",
+    "link": "http://openapi.naver.com/l?AAAC2LuQ6DMBAFv2ZpIiF8wVK4sDmK0KaPcDCHCKccJP4+hCC9YjR6s3zsukvIEogFIIcsBdSgg59BBepvFGi8nScNCk9IQXOvXW0tW+dmYApofsxMU++P5WZX/zUNl6jMBc/KurJ7+3N7FLnpKmApYZwJ9JwkPIwEiVFwTqk3SKGTotmDe/RY9m2jpDBhHTc4Jgs/si9kmTobuQAAAA=="
 }

@@ -1,8 +1,6 @@
 {
-    "author": "<b>헤르만 헤세</b>",
-    "link": "http://openapi.naver.com/l?AAAE2LPQ+CMBRFf81jMSGlLZQOHVo+YnRi0s1YqYEotpBCwr+3KoPJS+7Jve+Ms5lWAVUJnIGkUCmQKagfMMiLv6mAnILKd19SwIsPhCeeRN1k7qLz3gGRgOtw2tpH/LouZopvdtiKVm9waY2/9s/YdcGodd8CKRlOMOEs8iKhWUYYSxGmCEeDaM5Bs8dlHVO3R+h0AKwG2TYhFqf7WQb7DStMzYbJAAAA",
-    "title": "헤르만헤세 시집",
     "image": "http://bookthumb.phinf.naver.net/cover/072/123/07212397.jpg?type=m1&udate=20150922",
+    "author": "<b>헤르만 헤세</b>",
     "publisher": "문예출판사",
     "quotes": [
         {
@@ -53,5 +51,8 @@
             "page": 0,
             "text": "\n쾌락\n흐르기만 하고, 타오르기만 하고\n마구 불꽃 속에 뛰어들기만 하고\n마음을 앗기고, 몸을 바치고\n영원한 불꽃, 생명에게.\n그러나 갑자기 불안에 싸여\n무한한 행복에서 몸부림치며\n두려운 마음이 돌아서려 한다.\n사랑의 한가운데서 죽음을 느끼고..."
         }
-    ]
+    ],
+    "title": "헤르만헤세 시집",
+    "pubdate": "2013-05-20",
+    "link": "http://openapi.naver.com/l?AAAE2LPQ+CMBRFf81jMSG0FNoODC3QmLgYEwdcDEgFonzVYuK/tyqDyRvOu/eeedHmlUCeAacgCOQSRATyBxRY+lelwAhItvmSBJ5+wI048lqjr0lr7QShAKzcVeN484fyqY1/Gfs1qKsVzrW2ZXf3p9YZqupqCDOKEQ459WyCSEwjxFkcBO7vk+2iTCOa3XIqnS8eZJiLXh3z7ID3hTPfd78IfcUAAAA="
 }

@@ -1,8 +1,6 @@
 {
-    "author": "파울로 코엘료",
-    "link": "http://openapi.naver.com/l?AAAC2LvQ6CMACEn+ZYTEihFNqBoeXHyc3oaPipKRFsxWoiTy8Skxsu33f3eOn5k6MqwWvIApWCZFDJRlJI8iMqhuSbiiDWTQFRQvDdhjLwzXEGTgIz62tuvHegEnG9prX2Ft6bt57Dzk5/0Lf/cum1b4YxdGZ91O3Qg5aUCJYwEfg8StKUZhkjESc0mPInYmVsdz76cZFUqWHxrnOuOe0PnVyfX/SX4ELOAAAA",
-    "title": "포르토벨로의 마녀",
     "image": "http://bookthumb.phinf.naver.net/cover/030/954/03095459.jpg?type=m1&udate=20131224",
+    "author": "파울로 코엘료",
     "publisher": "문학동네",
     "quotes": [
         {
@@ -101,5 +99,8 @@
             "page": 0,
             "text": "\n"
         }
-    ]
+    ],
+    "title": "포르토벨로의 마녀",
+    "pubdate": "2013-05-30",
+    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBBFv2bYmBDaUmgXXbQ8NiYmRjeuDJWaNoIgVg1+vZWQzCRzz53zeJlpFlCVwGqQBVQKJAWVLiQDmfyJwiDZUiHg4acAXgJnmwXlwJaOUWBJZCdzFdb7EYgEXIfRw3CL783bTPFl6FfQ6vU4t8Y3rotHG4xauxZISRJOU8ojL1Ca5RRxRnmGSNSLw/M4B/ETVjG8HZ2eTx3235Ct3Dm/D/YPzxxGxtIAAAA="
 }

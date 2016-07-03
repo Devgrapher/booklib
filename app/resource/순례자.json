@@ -1,8 +1,6 @@
 {
-    "author": "파울로 코엘료",
-    "link": "http://openapi.naver.com/l?AAAC2LyQrCMBQAv+blGLrELIccak0Ogt6kR+mSLto0NaZF/94KhTkMA/NajP9KUDlwDiIHdYQsBh79i1AgItR708o+hBnSDBK9UTn3xFO5Go9rZ/fQVLvcGxPKYcRzvx26GhpIT5SRJBYMBRkTSlPGiKA0OSArFe3e57HI9HpZdPcIdqrJp17Jtbht3w/7ATO0ngAAAA==",
-    "title": "순례자",
     "image": "http://bookthumb.phinf.naver.net/cover/067/421/06742197.jpg?type=m1&udate=20160111",
+    "author": "파울로 코엘료",
     "publisher": "문학동네",
     "quotes": [
         {
@@ -109,5 +107,8 @@
             "page": "339",
             "text": "나는 바뀌어야 했다. 내 꿈을 좇아야 했다. 비록 그것이 유치하고 우스꽝스러우며 실현 불가능한 것이라 해도. 늘 마음속으로는 바라왔으나 뛰어들 용기를 내지 못했던 꿈, 그 꿈은 작가가 되는 것이었다. "
         }
-    ]
+    ],
+    "title": "순례자",
+    "pubdate": "2011-10-05",
+    "link": "http://openapi.naver.com/l?AAAC2LsQ6DIBQAv+Y5GgERGBjU4tSpW6dGKgYiiBps6t/XJiY3XC65dTfbIUG1wDmIFlQDNQJe/ItQIIrMbmaUNqUFSA24O9ExTvncf8yWv2O4wqAveQ0m9c7niz2PTrsByK1iJUaCZUmismIUCU4xK0gW5DrdHeBGKzvWx7L77hG+3uEnjaGM5/kDG7duHaAAAAA="
 }

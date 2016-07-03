@@ -1,8 +1,6 @@
 {
-    "author": "박노해",
-    "link": "http://openapi.naver.com/l?AAAFWLSwuCQBSFf811I0jNjPNYuHB80MKNFBFuQh1LKdPMiv591xAhOHA/vnPP/VkNHw8iH7QALSHSoGLwgwkkRtp/nQxArlDhIfOXCkEHk/EFdgvYU4ekfkq5INnybdVDdfLqceyB+kBiTNF1F+eWv6rBKbt2FqaY4WiqMW+uTl/jIi4aAzTkVBIpuDV6a8Y5FYIp6jJitZ4ug53B5aZ7DEmWpvl+657JwWRJ+ma4/AJRn2eu9AAAAA==",
-    "title": "그러니 그대 사라지지 말아라",
     "image": "http://bookthumb.phinf.naver.net/cover/063/828/06382876.jpg?type=m1&udate=20160224",
+    "author": "박노해",
     "publisher": "느린걸음",
     "quotes": [
         {
@@ -145,5 +143,8 @@
             "page": "545",
             "text": "겨울 사랑\n사랑하는 사람아\n우리에게 겨울이 없다면\n무엇으로 따뜻한 포옹이 가능하겠느냐\n무엇으로 우리 서로 깊어질 수 있겠느냐\n이 추운 떨림이 없다면\n꽃은 무엇으로 피어나고\n무슨 기운으로 향기를 낼 수 있겠느냐\n나 언 눈 뜨고 그대를 기다릴 수 있겠느냐\n눈보라 치는 겨울밤이 없다면\n추워 떠는 자의 시린 마음을 무엇으로 헤아리고\n내 언 몸을 녹이는 몇 평의 따뜻한 방을 고마워하고\n자기를 벗어버린 희망 하나 커 나올 수 있겠느냐\n아아 겨울이 온다\n추운 겨울이 온다\n떨리는 겨울 사랑이 온다\n"
         }
-    ]
+    ],
+    "title": "그러니 그대 사라지지 말아라",
+    "pubdate": "2010-10-16",
+    "link": "http://openapi.naver.com/l?AAAFWL2wqCQBCGn2a8ESR3PcxeeOF6CIIgKOgysjXWzDy0Br59Y4gQ/DDf/Id+LIcpgiwGGYJEyCSIHOJkBiSh/ZdhArghiw5bWiIFmcxOHFK2gj1nROJnCR/QW9uWHsp7pI3pgMfAclLRtrXzun7Kwbm1zWKoYoGLKs21ejqdpkVeVAp4GnBkGAaWiVwvCH1XoCc4Z1YTPYDJKdjXIz/2Y9FLRX+mK7E7nE9s+6btFzc8gJ32AAAA"
 }

@@ -1,8 +1,6 @@
 {
-    "author": "헨리 데이비드 소로",
-    "link": "http://openapi.naver.com/l?AAAC2MwQqCQBiEn2a8BKLur7sePOzqStClbnUKTUNJ02SV6ulbJZjDx/DNvOZ6+iTQEiqETKEVRA5B0ClijdjbgG9gnQAi3a2SYlC02QGUsFUGoS2tuuQQntNM9T1pjBnBJILcphyGh/sslnpyb0P/L6ryD9eqNkXbuWNjF3nZVmCZH/qCIu6YxKcoYpxTzIg8p08OrZq7JZvfZIrL0V5QvDem+ob9eTzZ5Q+HUig92AAAAA==",
-    "title": "구도자에게 보낸 편지",
     "image": "http://bookthumb.phinf.naver.net/cover/015/184/01518467.jpg?type=m1&udate=20130406",
+    "author": "헨리 데이비드 소로",
     "publisher": "오래된미래",
     "quotes": [
         {
@@ -121,5 +119,8 @@
             "page": 0,
             "text": "\n겨우 그 발전의 초창기 시대에도 이런생각을 가졌다니. 이시대에 그는 무슨말을 해 줄수 있을까\n작가란 개인의 경험을 글로 옳기는 것. 공상을 옳기는게 아니다.\n그는 사람들을 많이 사귀는거에 가치를 두지 않았어. 차라리 해가 뜨고 지는 걸 바라보았을 뿐. 나도 그런 사람은 아닐까.\n비싼 값을 치르며 멀리떠나는 여행만이 가치있는게 아니야.\n왜 사람들은 그렇게도 자신의 종교만을 강요하지?"
         }
-    ]
+    ],
+    "title": "구도자에게 보낸 편지",
+    "pubdate": "2005-03-10",
+    "link": "http://openapi.naver.com/l?AAAC2LsQ6CMABEv+ZYTEhLQdqBoYXipIuJuhkQFKIIQjH49xZCcsm9XN59xrL/RdASKoCMoRV4Cu5DxxAagiwQLmAdDzzezJJiUP5ie1DcTgm4tjTrMgQnTtWX96gypgOT8FKbvG2f7jv7lr17a5t1KPIVrkVpsvrldpV9pHldgCU0oNzfho6JqK2ACu4LjxCnifZKTZk5SiaCEz0Pg9g9DqOcpgsZ7O8PT6hU6tYAAAA="
 }

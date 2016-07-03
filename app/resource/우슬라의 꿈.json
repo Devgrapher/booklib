@@ -1,8 +1,6 @@
 {
-    "author": "도한호",
-    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBREv+ayMSG15dEuumh5bIzRBQm4MhRqIArFWkz8e6shmcXJzJznqu2HQ5EBEyDRD6gAkUEhgeUgs/+UA6M7KPyjBEqDweobH5xbgAjApY8y5h7O7VvbsDPTVvRqg2uvXTs+wmXwRqnGHkhOUUoYZoHj+yhJSJpGjLIYBRMXra07e0aHuT69KgJY4ktTHWm8ro3x5he3jn0AswAAAA==",
-    "title": "우슬라의 꿈",
     "image": "http://bookthumb.phinf.naver.net/cover/080/739/08073929.jpg?type=m1&udate=20150720",
+    "author": "도한호",
     "publisher": "서로사랑",
     "quotes": [
         {
@@ -13,5 +11,8 @@
             "page": "170",
             "text": "인어가 찾아왔을 때 마녀가 내걸었던 것, 그것은 사랑을 이루기 위해 치러야 할 것들이었다. 이번에 우슬라가 빼앗으려는 건 인어가 아닌 인간의 목소리, 그것도 못된 소리만 골라 하는 미운 목소리다 "
         }
-    ]
+    ],
+    "title": "우슬라의 꿈",
+    "pubdate": "2014-08-22",
+    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBREv+ayMSE8LNwuumh56IIYY2KCKwNShAgWaiXx762GZBYnM3Pmt9QfBlkClIPwfoAceAKZAJqCSP5TChQ3kNlHDohOp2XLOmMmCDkEuU2t1MN9VovU7k2Na9HUK1wbaap+cKfOGnndNxCm6MUhDahjmL+NYuJTJMSCM7ILBOJwvls3Ou14Wy77SZGyOOoChzl6WfcLhiKfR7UAAAA="
 }

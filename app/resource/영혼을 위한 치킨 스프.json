@@ -1,8 +1,6 @@
 {
-    "author": "김형곤",
-    "link": "http://openapi.naver.com/l?AAAC2LUQuCMBRGf831JRDdptse9jCdYkQI9RD0EporpUyTZfTvmyu4D4dzz/d86ekjIEuBM2AhZGqBJHVGASMrR6kl94ssO5XwJbSKIZDMKSZB/ipic6+d9EW0xoyAJaDcXj0MN/9RzXryz0P/F039h1OjTdXd/bG1i7zuGsCKUMQx5p4RIYljTCnhDFPk9aIMomQOiu17s1+bsL6aNDooQElx3JWBXX4BcVz7LtkAAAA=",
-    "title": "영혼을 위한 치킨 스프",
     "image": "http://bookthumb.phinf.naver.net/cover/047/293/04729339.jpg?type=m1&udate=20141122",
+    "author": "김형곤",
     "publisher": "영진닷컴",
     "quotes": [
         {
@@ -41,5 +39,8 @@
             "page": "0",
             "text": "Whether you think you can or think you can't, you're right. - Henry Ford. "
         }
-    ]
+    ],
+    "title": "영혼을 위한 치킨 스프",
+    "pubdate": "2008-08-11",
+    "link": "http://openapi.naver.com/l?AAAC2Myw6CMBBFv2bYmJDQh7SLLoCCGo0S495QKQERi6SY+PeWajKLk3Pvndesp4+APAPOgEWQywXSzBsJjKw8ZY58Rh17lfKl6BRDkDCvWALJr0VcPWgn3YjW2hFwAqhwp4zpw2f11lN4M8Nf1OoP11rbqnuEY+sWhepqwJLEiGPMAysiso5pxBklHNNgEE3Z9DM1x8seUHo/ldZ92ey25wNXI5e5234B+tmhedsAAAA="
 }

@@ -1,8 +1,6 @@
 {
-    "author": "헤르만 헤세",
-    "link": "http://openapi.naver.com/l?AAAC2MywqDMBQFv+a6FPOoXhdZ+KS7UmjBXVETjag1DbG0f98UhLMYBua8dmW/AqoSkEBWQJUDImDxNykH5IG2ahDaOQMsA1r7dds2h8/2rWzYb+shZHfAQyrXTktotC/qbpLASsKTGJEEThAexyxJTlGUchqs4nwFmjfV2C/rvI93/3FpPtrcWLpISzPf/gC7XDXiogAAAA==",
-    "title": "크눌프",
     "image": "http://bookthumb.phinf.naver.net/cover/014/768/01476881.jpg?type=m1&udate=20150723",
+    "author": "헤르만 헤세",
     "publisher": "민음사",
     "quotes": [
         {
@@ -25,5 +23,8 @@
             "page": 0,
             "text": "\n(평범한 시민적인 삶도 분명 가치있는 것이지. 마치 내가 살아 가는 방식이 무언가 우월하다는 듯한 행동은 금물이야. 어쩜 그들과 내가 다르게 산다는 생각 조차 오만일테지)"
         }
-    ]
+    ],
+    "title": "크눌프",
+    "pubdate": "2004-11-20",
+    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBBFv2ZYNhkoZVh0gTxW6lrdGLCtJbybSuLfWxOSuzj3JGf7aPeVUFdACEUJ9QmIgMq/yTkQj6zTRlrvV0gKiJuwblkGNre7duy1TIdQ3QFPpX3bj2y1oWi6XkFSIc8EEUZeIhdZijml4WI0SfcO2UOMVzNs1Vjs99tFz7GwZjjvFMoffKHum6AAAAA="
 }

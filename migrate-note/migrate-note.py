@@ -121,13 +121,16 @@ def queryBookInfo(title):
         first_book = books_found[0]
 
 
-    keys = ['link', 'image', 'author', 'publisher']
+    keys = ['link', 'image', 'author', 'publisher', 'pubdate']
     book_info = dict()
     for k in keys:
         if first_book:
             book_info[k] = first_book.find(k).text
         else:
             book_info[k] = ''
+
+    date = book_info['pubdate']
+    book_info['pubdate'] = '%s-%s-%s' % (date[0:4], date[4:6], date[6:8])
 
     return book_info
 

@@ -1,8 +1,6 @@
 {
-    "author": "류시화",
-    "link": "http://openapi.naver.com/l?AAAC2LywqDMBQFv+a6KYh5NI+Fi0QjFKSUbrosWhMUa2NDLPTva0U4i8MM815s+OZgClAcRAZGgT6CKsBo0AQEPfyd5BsqQTIQciMGZJb0wbq8j3EGogBX61rvx/TVfGxIH37aQdfu597Z2AzPdO7XomqHDkiJECMZSWKOKGOEcyolRziZ8gVbF1y4jidEb5jPoj77SwSslavpGv4AWFQI4rsAAAA=",
-    "title": "지구별 여행자",
     "image": "http://bookthumb.phinf.naver.net/cover/001/163/00116303.jpg?type=m1&udate=20130611",
+    "author": "류시화",
     "publisher": "김영사",
     "quotes": [
         {
@@ -73,5 +71,8 @@
             "page": "253",
             "text": "본래 자기 것은 무겁지 않다네. 자기 것이 아닌 걸 들고 다닐 때 무거운 법이지. "
         }
-    ]
+    ],
+    "title": "지구별 여행자",
+    "pubdate": "2002-11-27",
+    "link": "http://openapi.naver.com/l?AAAC2Luw6CMBhGn+ZnMSHU0tvQoUBZWFx1MSCVNopcrCg+vUhIvuHLOTnDy4yzBJ2CYsAj0AoSAioFnUCCgce7vxNsRRkIClysRIOIAjuaq7Te94AV7PNlVdfdwkc5mTG8dO0G6mo759r40t3D3i5FXrkacIYQxREOvEQxZQQJTiimOGjlR83TxNBRFM+WuuE9f5sTT4krDs2S/QBn/7hkuQAAAA=="
 }

@@ -1,8 +1,6 @@
 {
-    "author": "페르난도 <b>페소아</b>",
-    "link": "http://openapi.naver.com/l?AAAH2LSwuCQBRGf811E4jO6My9i1mYD9xFgQVtwseEUjYqY+C/z8J18C0OH+eMs54WBWkCmAIhpDGgAIy/QCFg8AMC9HZ/pT0Qhyhw2knfVWvtADwClq2rjHm4r/KtJ7c2/XY01Qa3Rtuye7pDuxZZ1TXAE0mSIzHHKj8QgksZen5IntMroW2+yFnnZ3Y4sWM9XmdrluJS5PXafQBmJuvczAAAAA==",
-    "title": "페소아와 페소아들",
     "image": "http://bookthumb.phinf.naver.net/cover/079/738/07973892.jpg?type=m1&udate=20150717",
+    "author": "페르난도 <b>페소아</b>",
     "publisher": "워크룸프레스",
     "quotes": [
         {
@@ -69,5 +67,8 @@
             "page": "362",
             "text": "만약 내가 존재한다면, 그걸 안다는게 나의 오류다. "
         }
-    ]
+    ],
+    "title": "페소아와 페소아들",
+    "pubdate": "2014-07-31",
+    "link": "http://openapi.naver.com/l?AAAH2LvQ6CMBRGn+aymBBoKe0dOvBTEh0MxjgbKjUQhSJWo29vNcwm33Dy5Zzbw8xvCaoEoQAFqAJECqL4AjIQyQ8QRLT6K+WAFLIk6GZzlp1zE9AMSOWnrb2EY/M0c3iyw3K0eoFja1zTX8Op80Wl+xZoyZFTgSRwMk5SzmIUDFlEgkFurDYHXvv2bk2Pe1JnOW53I5B8XL+Ubz9qgiOI0AAAAA=="
 }

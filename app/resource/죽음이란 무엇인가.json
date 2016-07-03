@@ -1,8 +1,6 @@
 {
-    "author": "셸리 케이건",
-    "link": "http://openapi.naver.com/l?AAADWLyw6CMBREv+ayMSFgobddsGhpiUtZGJeGAgJRnoKRv7cYTGZxMjNnXMppjUDHIAhItQFXwOIdZABaAtfAvMNGIv5VdkNg+D8x0AKkZ09OPZX3qJ7nAYiAY2Jj+v7hdtm7nNy8b/eiMDvcinLOmqc71NZITFMAUeiFNETizJEfUEoQA86pHzhttFjrU2FfGYP59YJq6UZ6WotXejapNb8PWvD8zgAAAA==",
-    "title": "죽음이란 무엇인가",
     "image": "http://bookthumb.phinf.naver.net/cover/070/565/07056573.jpg?type=m1&udate=20151106",
+    "author": "셸리 케이건",
     "publisher": "엘도라도",
     "quotes": [
         {
@@ -209,5 +207,8 @@
             "page": "346",
             "text": "의무론자들의 주장에 따르면 전체적인 결과가 아무리 좋을지라도 무고한 사람에게 피해를 입히는 것은 도덕적으로 잘못된 행동이다. "
         }
-    ]
+    ],
+    "title": "죽음이란 무엇인가",
+    "pubdate": "2012-11-21",
+    "link": "http://openapi.naver.com/l?AAADWLXQuCMBiFf83rTSDTOTcvdrG5SUVBkdFlaBqKmR8soX59MwzOxcM55xle5fjmoGMQGKSaIVLA4gVkAFpCpIGh1Uwi/lV2o8Do/8RAC5DInpxqLO+8MqYHLMBPbPKua9xnNpWje+vapSjyBa5FabL64faVNZK8LgArikhIKHYM94KQEi9iJPQ96rT8WCkz1Uhs8eWciS49rZNht9mnh09jvS/6KAZ6zAAAAA=="
 }

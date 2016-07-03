@@ -1,8 +1,6 @@
 {
-    "author": "류시화",
-    "link": "http://openapi.naver.com/l?AAAC2MywqDMBBFv2bcCGI0xmThwsQIpYt2WbopvorS2vhIRf++iRUuw+HOmRm/zbQlIAUwBpyC5ECpjQHuA4v2VQYcu7ZKBXABMgUeQurvQK33lxh1LdHAesZmEhhy2ql5Jq3WA4QpBLlJqdTL+xRLM3mV6o+iLg941I0uurc3tOYiL7sawoz4iJAIOTpBmJAwjjGjMY6dPrmp87oNWo68qK74dFnvnSDmk1rMmGdz+wNqnXaC4wAAAA==",
-    "title": "외눈박이 물고기의 사랑",
     "image": "http://bookthumb.phinf.naver.net/cover/060/166/06016651.jpg?type=m1&udate=20090504",
+    "author": "류시화",
     "publisher": "열림원",
     "quotes": [
         {
@@ -17,5 +15,8 @@
             "page": "65",
             "text": "나는 그 옷을 잘 입고\n이제 주인에게 돌려준다. -서시 "
         }
-    ]
+    ],
+    "title": "외눈박이 물고기의 사랑",
+    "pubdate": "1996-10-31",
+    "link": "http://openapi.naver.com/l?AAAC2LvQ6CMBhFn+ZjMSH0l3ZgaKGsLiaOhlpICSBIUOPb2yLJHU7uPff5atdvAaYEKUELMBqEiAmgM5BsnyrQ9BQrVYIuwSjQBFS2g4jeX5LiFEng6AVbGpAo8WvbFX7bFiAKcB1i53lIH827XdP7PB2FswfcXLs1/ZguPjxq2zsgFc8Q5wwlW4EozxmSgjFCaTIVo1XEDnntPvl1Xpoz9h2+9EZ0nQm/HxXnhqzfAAAA"
 }

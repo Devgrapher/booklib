@@ -1,8 +1,6 @@
 {
-    "author": "강신주",
-    "link": "http://openapi.naver.com/l?AAADWLvQ6CMBRGn+aymJC2lP4MDC0tg4NGEwcnI4KCgCCikbe3EEzucO45+Z7vvB8jsDFoAgqBNSBDkHIy7hV4NZHQIOOZpAFtwCrQAjRajBRzUwwkmhv+Nw0CeUWfX6NiGDoIFJDEXdq2lf84f/Lev7TNIrJ0gVOWD+ey9rvCLZK0zCAwjAScMOQNEaaMBZyHCGFBvSay+C4Oaruu9Fgrurnxnd4n5dF8X9TtfgQBVGfgAAAA",
-    "title": "철학적 시 읽기의 즐거움",
     "image": "http://bookthumb.phinf.naver.net/cover/062/372/06237260.jpg?type=m1&udate=20150715",
+    "author": "강신주",
     "publisher": "동녘",
     "quotes": [
         {
@@ -121,5 +119,8 @@
             "page": 0,
             "text": "\n읽어볼 책\n예루살렘의 아이히만, 한나 아렌트"
         }
-    ]
+    ],
+    "title": "철학적 시 읽기의 즐거움",
+    "pubdate": "2010-02-05",
+    "link": "http://openapi.naver.com/l?AAADWLsQ6CQBAFv+bRmJDjkOO2oGA5SCy0sLQxICgEECQo+vciwWSL2Zm8x7MYPgHiCCwRCsQG5IHoZ+ZXO5sfaQZFC5EBG8QhWIPFakgvLVQgsTTn3xhaWOVQXINyHHu4IWQyX9Z1tX1PX8VgX7p2FXm2wjkvxrRq7L6cF0lW5XCNkq4vlbDGwNkq33NIe4qEtNrAPzTJ/nSbIg+SZV+zmdw3d/6xTNLdvPwCco5O+uIAAAA="
 }

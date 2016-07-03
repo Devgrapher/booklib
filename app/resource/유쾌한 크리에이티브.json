@@ -1,8 +1,6 @@
 {
-    "author": "톰 켈리|데이비드 켈리",
-    "link": "http://openapi.naver.com/l?AAAC2LvQqDMBhFn+ZzKYjRmJjBIdFI11Ic6lL8SYlYNUpaqE/fKMIdDodzl49afynIDFgGPNhBSEgykDmw2MnLTgkC7pQATg5wNQV21CwHgY9GgAj2RiTu7+lVvVJtrYGIQ1i4NfM8+FP9VavfzuMpuuaEZ6ds3b99o92jaPoOopziICYEeTZFmJCIUsxYgBNvTNui3B4QCrzdpal0aVo0GXSr+HJ1dnDfP8YNN7DZAAAA",
-    "title": "유쾌한 크리에이티브",
     "image": "http://bookthumb.phinf.naver.net/cover/074/056/07405661.jpg?type=m1&udate=20151105",
+    "author": "톰 켈리|데이비드 켈리",
     "publisher": "청림출판",
     "quotes": [
         {
@@ -69,5 +67,8 @@
             "page": "334",
             "text": "당신 삶의 디자인을 시작하라. 당신 삶에서 '다음 달'을 하나의 디자인 프로젝트라고 생각하라. "
         }
-    ]
+    ],
+    "title": "유쾌한 크리에이티브",
+    "pubdate": "2014-01-17",
+    "link": "http://openapi.naver.com/l?AAAC2NSwuCQBRGf811E4iPeS5mMTPqKoIWGbSJ8RFK2aio1L9vNOEuDh/ncIe5Hr8CUg1cgwxWUCkwDWkCHLvxsBILQbpJgSQbOJsC32yegEKbo0AFq6OY671mrB+imaYeYglR5q6w9um/zVKPfmm7faiKHe5VPZn25feNK7KirSBOKAowIaE3iRARikPOMCYR9zqRD+3HLPPtcjVHek4gUojJXP8flSdtXf0DC9ljl9sAAAA="
 }

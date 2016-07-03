@@ -1,9 +1,7 @@
 {
+    "image": "http://bookthumb.phinf.naver.net/cover/091/800/09180020.jpg?type=m1&udate=20160317",
     "author": "데일 카네기",
-    "link": "http://openapi.naver.com/l?AAAC2LXQuCMBhGf83rpbgPtnmxiy01uojwqu7Cj8WspqbLqF/fEOHh4XDgvN5m+krId5BmoAXkCnQCgq5AQSQrkNVoUAhUEtnJ3KT1fgSiABdh9TA84r5azBQ3g9tEW29wbY2vumc82lAUddcCyRDlXDAceYkoY4RzmqYIi8hJ6/ShNPfLggDrWZ3D/05l2X/2zSyOc2j/2ce037QAAAA=",
-    "title": "인간관계론",
-    "image": "http://bookthumb.phinf.naver.net/cover/014/778/01477862.jpg?type=m1&udate=20151204",
-    "publisher": "씨앗을뿌리는사람",
+    "publisher": "미래지식",
     "quotes": [
         {
             "page": "63",
@@ -53,5 +51,8 @@
             "page": 0,
             "text": "\n"
         }
-    ]
+    ],
+    "title": "인간관계론",
+    "pubdate": "2015-06-20",
+    "link": "http://openapi.naver.com/l?AAAC2L0QqCMBhGn+b3UjZ1Oi92seWEIPLK6i5cLpXS2VhJPX1DhO+Dw4Hzemv7ZSB3kBcgKEgOAgFNVkiAohXi1QjgGDgKeqvvrHduhphDVPopYx7h1Hy0DW9m3ESrNri22jXDM5x7X5RqaCEuckwRilDgGE7SjOCcEpIRFIyslt1xrPZGX3xe+5/tofqdpk6m86IW3/4BUlrnELQAAAA="
 }

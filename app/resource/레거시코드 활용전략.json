@@ -1,8 +1,6 @@
 {
-    "author": "마이클 C. 페더스",
-    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBREv2bYmBBKy6MLFi20hoWRnUsjFgNBLBDU8PeWSHIX587Mmd7NvGZQEiJAmkIJSAIZQOVIJXi+gSzA2bbh1CUHKPfzveMCgm+w+f+Rgoy8dm4eWbssI6hAqN3V1vb+6/ZpZv9uhz0w9Q5X0yy37umPrTN03RnQgnHCaEq9JSMsjmmSMM7iKPKGDKFcz6ZMtC2rWh/LU5VfCAln3U/268wfgcfgx9cAAAA=",
-    "title": "레거시코드 활용전략",
     "image": "http://bookthumb.phinf.naver.net/cover/049/143/04914383.jpg?type=m1&udate=20150509",
+    "author": "마이클 C. 페더스",
     "publisher": "에이콘출판",
     "quotes": [
         {
@@ -37,5 +35,8 @@
             "page": "277",
             "text": "스크래치 리펙토링 : 이해하기 어려운 코드를 리펙토링을 수행하면서 코드를 이해한다. 테스트 없이 마음껏 리펙토링하고 코드를 이해한 후에는 그 코드를 버린다. "
         }
-    ]
+    ],
+    "title": "레거시코드 활용전략",
+    "pubdate": "2008-10-22",
+    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBREv2bYmJBCW2kXLFooiTEx7kzcGJAaiGIB8fX3lkhyF+fOzBmedvymMBqKQAgYBR1BE5gMQkNmM+gcks0bSX2ygvG/XDqpoOQMs/8fGWgeNKO9pM009aAKceGvcu4a3suXHcOz65agrhY41XYq21vYN94oqrYGzZmMGBU0mNKIrRMeScEJpyzoUoZYJ4S7cnf4bLv9pn3E72MyJMZlGfHmD583MhXXAAAA"
 }

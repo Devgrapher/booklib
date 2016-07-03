@@ -1,8 +1,6 @@
 {
-    "author": "샘 라이트스톤",
-    "link": "http://openapi.naver.com/l?AAAC2MSwqDMABETzNuBEmMmmThItEohW5baDel/lCsn4oKvX1VhFk8HjPzXcrpF8LEkB6EB6OhKGQEo6A5tNiNNJAHKHGao2PDRBAuVLQrobYLeyftQvpWPZVVWM/zCKbgJluyYWid/r2Wk5MP3SmK7IRXUc7v5uOM9bZIsqYAizmhhAfCmkPqBQHj3CdUEmF14ZP1+cgW0vKHHtPhmt4UXe9LWy2XbfcHHvZeutYAAAA=",
-    "title": "프로그래머로 사는 법",
     "image": "http://bookthumb.phinf.naver.net/cover/070/107/07010768.jpg?type=m1&udate=20150715",
+    "author": "샘 라이트스톤",
     "publisher": "한빛미디어",
     "quotes": [
         {
@@ -73,5 +71,8 @@
             "page": "397",
             "text": "성공은 좋은 스승이 못된다. 성공만 경험한 똑똑한 사람은 자기가 절대로 지지 않는다는 생각에 빠지기 십상이다. -빌 게이츠. "
         }
-    ]
+    ],
+    "title": "프로그래머로 사는 법",
+    "pubdate": "2012-10-04",
+    "link": "http://openapi.naver.com/l?AAAC2MwQqCQBiEn2a8BOKubvvvwcNqKx26RBDlJdo0lDJNzOjtW0WYw8fHzLw/Zf+LYTZQESiCSaAZVAqjkUgkNBlloGbQtJi5s4JJQRw6nRRpd7GaKOFQwqv68h5Xw9Ah1OCZi23bh/+6jmXv39pmEYVd4FKUw7V++l3lFpmtC4QbGbBArskbYhatpWCKhJKMeU18uu+OjQg4bUe+y61O8/O3HntLh73b/QGLxtYj1gAAAA=="
 }

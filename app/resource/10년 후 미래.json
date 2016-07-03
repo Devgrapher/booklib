@@ -1,8 +1,6 @@
 {
-    "author": "대니얼 앨트먼",
-    "link": "http://openapi.naver.com/l?AAAC2LTwuCMByGP83PSzDUrbkddnA4CeriJegUmvMPNbdkFvbpWyS8h+d94Hkuel5FEoOSwPbAyA5UAVz+SUJegmQ/4Ao4i4ZZd2Lw3gHOIS3DGmvvaKpfekY3azbRNhtcW+3r8YHcEIqyGVvABaUkoTyNvEgIpTjLCA+fREYotfYhPPSFs8fRsNP0cZfz8p6qNa5C+QVFUFMWrQAAAA==",
-    "title": "10년 후 미래",
     "image": "http://bookthumb.phinf.naver.net/cover/066/416/06641692.jpg?type=m1&udate=20160127",
+    "author": "대니얼 앨트먼",
     "publisher": "청림출판",
     "quotes": [
         {
@@ -69,5 +67,8 @@
             "page": 0,
             "text": "\n 요약\n○ 자본주의에 대한 반발로 인한 사회주의로의 회귀"
         }
-    ]
+    ],
+    "title": "10년 후 미래",
+    "pubdate": "2011-05-23",
+    "link": "http://openapi.naver.com/l?AAAC3LSwuCQBiF4V/zuQnEcS7Ot5iFgyMEtS834eh4obxkU9G/z0g4i4cD7/3plo8iERgNkoNkOzAZoP5LQ5qDlj+gAZRBt7hGdd7PQFOI83V2mq7hWL7cElbTsB213XCpnS/7Wzh3a5HbvgaaCcGIwDjwijCRcIKSJYSLYFD7w6nMzsXjXRS2RcdphMbjeKxMu3Zfy5Ta1KsAAAA="
 }

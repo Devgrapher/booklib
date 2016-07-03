@@ -1,8 +1,6 @@
 {
-    "author": "데이비드 반데보드|니콜라이 M. 조슈티스",
-    "link": "http://openapi.naver.com/l?AAAC2LsQqDMBiEn+Z3KYhNoiZDBmPMaBHauWiNJLQ2VtOKb98Iwg0f9919vnreeAlIhJygkkBTYOUOjAANIKDIQKjgChAJ0ASqEpgEQXbHcFhHZtYDN95PgAtAKqRz7hm/25+e44cbj6LvDrj32rf2FU8mPFRne8AyRZgkKI08P5Msw3lOGEI5ikYu7ZU0N3JppK0n52m9GqnGbV3aJfz+vVMM38IAAAA=",
-    "title": "C++ 템플릿 가이드",
     "image": "http://bookthumb.phinf.naver.net/cover/052/340/05234025.jpg?type=m1&udate=20150728",
+    "author": "데이비드 반데보드|니콜라이 M. 조슈티스",
     "publisher": "에이콘출판",
     "quotes": [
         {
@@ -13,5 +11,8 @@
             "page": "50",
             "text": "템플릿 템플릿 파라메터 : 파라메터 자체가 템플릿 클래스가 됨 "
         }
-    ]
+    ],
+    "title": "C++ 템플릿 가이드",
+    "pubdate": "2008-12-16",
+    "link": "http://openapi.naver.com/l?AAAC2OOwuDMBSFf811KYjmoWbIYHygQ+ncLkWbWKVaraTF/PteQTjDx3nA+XzN6mQGRKFOUOSQcBDZDoJBgqAgjUCVmKWgAkgCKDIQOSi2Z4Ji2+tX08ne2gVoCqREtfP88t/Nz6z+Y54OQ7cH3LWxzTD6S4+Lsh000JwTygLCPStDFsU8FAmLIxF7k6SXoG5dVw3X6Uzx5m3MnTPZpp9bVePyDxEX9HvEAAAA"
 }

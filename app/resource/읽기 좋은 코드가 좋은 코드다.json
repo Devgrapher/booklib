@@ -1,8 +1,6 @@
 {
-    "author": "더스틴 보즈웰|트레버 파우커",
-    "link": "http://openapi.naver.com/l?AAAI2LvQ6CMBhFn+ZjMSHQVtoODC0/i26YGFyMSLGoWMRi4ttbFHeTO9yce+59VMMrhiwBnoJMIRMgGchgMSGBgMl5Y1/kFE4gk8Ax8OSjB7/tD11OhiCeHlQTa2t7wAJQ7lIZc/Fvh6ca/KPpZlBXc9nXyh7aq99r98irtgacRoyGLKCejUMSRZhSwjlByOtio7qRbfDypM/hrlyXxZYBkm1Pimb1cM838cLlQ/UAAAA=",
-    "title": "읽기 좋은 코드가 좋은 코드다",
     "image": "http://bookthumb.phinf.naver.net/cover/068/718/06871807.jpg?type=m1&udate=20150529",
+    "author": "더스틴 보즈웰|트레버 파우커",
     "publisher": "한빛미디어",
     "quotes": [
         {
@@ -61,5 +59,8 @@
             "page": "197",
             "text": "평균적인 프로그래머는 출시할 수 있는 수준의 코드를 하루 10줄 정도 작성한다. "
         }
-    ]
+    ],
+    "title": "읽기 좋은 코드가 좋은 코드다",
+    "pubdate": "2012-04-06",
+    "link": "http://openapi.naver.com/l?AAAI2Myw6CMBBFv2bYmJCWFtouWLQ8YtRoTFy4M2BrQEWgool/b1Hcm0wmk3PPnf5h7CuGLAGRgkohk6A4KDQbkQyAqynjX+QUQSFTIAiI5KOjX/aHrkZDUq+y5hRXw9ABkRDkbsq2vfi34mmsf2ybCehyOg7aDEV99bvKNfKy1kDSiDPMEfOGGNOIhVjwMEIUe028tf1aJuw812K/UxtyD3ZL98isFm7n3HXf90QNqfcAAAA="
 }

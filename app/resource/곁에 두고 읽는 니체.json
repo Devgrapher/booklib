@@ -1,8 +1,6 @@
 {
-    "author": "사이토 다카시",
-    "link": "http://openapi.naver.com/l?AAAC2MSw+CMBCEf81yMSGW1tIeOLQW8EA8GPVqeJSUKIKkvv69iyGZTSbz7czjaadvAqkCTUEQSLcgY5DrFaQaJEG3MDVHCA1oMzOhQLL/l0CJmekINAvcZNvEeT8CVRBlqGoYruG9fNkprId+CZpqMZfG+rK7haPDRlZ1DVAjKSWc8sAnhHFO45hhwnjQJ0rJz9GZYn8+nCDSG7ydzmud41rR5vUb2z+ndKvl1AAAAA==",
-    "title": "곁에 두고 읽는 니체",
     "image": "http://bookthumb.phinf.naver.net/cover/093/316/09331636.jpg?type=m1&udate=20160218",
+    "author": "사이토 다카시",
     "publisher": "홍익출판사",
     "quotes": [
         {
@@ -53,5 +51,8 @@
             "page": "225",
             "text": "천부적인 능력이 없다고 비판하지 마라.\n재능이 없다면, 그것을 습득하면 된다.\n"
         }
-    ]
+    ],
+    "title": "곁에 두고 읽는 니체",
+    "pubdate": "2015-07-30",
+    "link": "http://openapi.naver.com/l?AAAC2LsQ6CMBRFv+axmBBKK/QNDK3AaOKAURcjUgJRKJRqlK+3GJIz3Nxz7/hS5ptAJkBS4ASyHWAMGGwgk4DEpdWJpXIyBZkujgtA9l9xB1+cDEEyrzGqThprB6ACwtxRav3w+9tbGf+uu7WoyjVcK2Vv7dMfGvfIy7YCmiKlJKKRZxPConhLkDMMMPa6RO87Oc5nvEwnW5heFXig83T81GPhfj+3+CV0zgAAAA=="
 }

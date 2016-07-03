@@ -1,8 +1,6 @@
 {
-    "author": "김민장",
-    "link": "http://openapi.naver.com/l?AAAC2LsQqDMBRFv+a5FERj1Dg45BlFCqU6dC7aRCKtjUoq9O+binCHcy6c5aPWbw4lAs+ABVAKYAjooAAUkNE/ZAkgPRXNbRfhZIcYsICSAzIXeHpVQ66tnSHiQCq33pin/+42tfoPMx2H7A+4S2W78eXP2hVVP0qIREJYwGLi2TykSRKlKc1oSok35U3bXiWGZ9XUmtugNkCQlstmLsMUuPIHu8mhScgAAAA=",
-    "title": "멀티코어 CPU이야기",
     "image": "http://bookthumb.phinf.naver.net/cover/062/808/06280852.jpg?type=m1&udate=20150718",
+    "author": "김민장",
     "publisher": "한빛미디어",
     "quotes": [
         {
@@ -37,5 +35,8 @@
             "page": "0",
             "text": "대표적으로 스레딩 빌딩 블록(TBB) 라이브러리의 tbbmalloc과 HOARD라는 메모리 할당자가 있다. "
         }
-    ]
+    ],
+    "title": "멀티코어 CPU이야기",
+    "pubdate": "2010-05-28",
+    "link": "http://openapi.naver.com/l?AAAC2LXQuCMBhGf83rTSB+bHO72MXm5lWBBQVdhR8LJW0qq/DftyR4Ls554Mwvs6wctATBgEagFVAJ0kMOUgFDP2AEJNrl5XkT5WUDDDIHLUBSHwTdYu68c26CVEBS+NXWPsJn9TZL2Njxf7T1H26tcVU/hFPni6LuW0gVSWhEcRI4HiOS4ZhRHJEsDkY+NoU11kyflek9OswluVbH01A2F+G7L49nDX3GAAAA"
 }

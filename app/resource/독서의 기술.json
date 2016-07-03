@@ -1,8 +1,6 @@
 {
-    "author": "모티머 J. 애들러|찰즈 밴도런",
-    "link": "http://openapi.naver.com/l?AAAC2LvQqDMBRGn+a6FER7r5oMGRJ/BqFTnboUoxHFWo3EQvv0tUX4hsN3OHYz61tAroAVwCLIU2AEPP0Bz4CzE+QSFAMV/B0DGXj9ajrRO7cASjgX+/Q8j/6zfpnVb+bpOFp9wL01rh4e/tLvRaGHFjAL8ZwgkudESHGMSUKcIgq9SYw2mkrV6c02t4/EKrAVVfXVlstl7766x7stsQAAAA==",
-    "title": "독서의 기술",
     "image": "http://bookthumb.phinf.naver.net/cover/013/273/01327334.jpg?type=m1&udate=20130204",
+    "author": "모티머 J. 애들러|찰즈 밴도런",
     "publisher": "범우사",
     "quotes": [
         {
@@ -53,5 +51,8 @@
             "page": 0,
             "text": "\n소재를 '선별'하는 작가는 진정한 작가가 아니고, 그런 책은 읽을 가치가 없다는 사실, 그리고 문학 작품의 소재는 결코 가치판단의 대상이 될 수 없다는 점."
         }
-    ]
+    ],
+    "title": "독서의 기술",
+    "pubdate": "2011-02-15",
+    "link": "http://openapi.naver.com/l?AAAC2Myw6CMBREv+ayMSFAW7lddAG0GBduSVwZKkUaRB6pRP7eakhmcTKTM/PbLJsAlQOWgAxUAUiBFz/gEjgeQGWQI+TRf0PIoqBbTCs65yYgGSSljx7HPnzVq1nC+zjsRaN3uDXG1fYZTp03Sm0bIDImSUoIDZyI6TFlMUcWEcaDQVxP8m7tViT9pZq1aqvVUNme/Zf6PLz5BddlDkCzAAAA"
 }

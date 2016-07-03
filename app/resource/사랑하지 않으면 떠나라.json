@@ -1,8 +1,6 @@
 {
-    "author": "채드 파울러",
-    "link": "http://openapi.naver.com/l?AAAC2MwQ6CMBBEv2a4mBCkhbYHDm0pJ2M0MZGbESkBFUFEjH9vISZ7eDs7b59vO3wTGA0eQmoYBWEg1jApRATB55Nk4MFqJhdxuYCGWtpSQNHV4sWQwQzu0+y5JHUlrx5sldTj2INIhJmboutu/uM82cG/dO0/KIs/nEo7npu739fOyIqmBEkpYRGh3BuTNY1jwhgVcRgxr036Kcpf1eFj9JEiVDJrdZHbbb5xy+66d+4PyicoA+MAAAA=",
-    "title": "사랑하지 않으면 떠나라",
     "image": "http://bookthumb.phinf.naver.net/cover/043/753/04375348.jpg?type=m1&udate=20160514",
+    "author": "채드 파울러",
     "publisher": "인사이트",
     "quotes": [
         {
@@ -21,5 +19,8 @@
             "page": "69",
             "text": "어떤 상황이 닥치더라도 80%정도는 \"그거요, 해봤습니다. \"라고 말할 수 있고 나머지 20%의 상황에서는 기존 지식의 깊이를 사용해 문제를 처리할 수 있는 사람을 원했다 "
         }
-    ]
+    ],
+    "title": "사랑하지 않으면 떠나라",
+    "pubdate": "2008-01-11",
+    "link": "http://openapi.naver.com/l?AAAC2MwQ5DQBRFv+baNBHGYGZhMRgWbdp0Z9dQWoJSVKpf3yGStzjvvnve+1MMiwcZgBGIANIHl+AmZAhug7P1JFww47CSipjYIIC/tQWHTw+b50AYK6hPq6eSUJW0cigeXjlNPSwBEqnJuq7WX+lcDPq9a/cgz3a45cWUVo3el8qIsiqHFVLLtS3KtMkzqePaJmc2oWpvPZGcL3Usol8zz8loLCRericQ//kdj1KZfzkQXR/hAAAA"
 }

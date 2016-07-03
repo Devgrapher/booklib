@@ -1,8 +1,6 @@
 {
-    "author": "헤르만 헤세",
-    "link": "http://openapi.naver.com/l?AAADWLSwuCQBSFf811E8jkjPNYzMIntJAghNqF01gjaZpMRv36RjG4i++e853nqx4/ErIE4gCidAEKgs8gUogJZDGIDDjazBQlS+Q6Bpz9JWdHECMneWasr9JYOwCOIMjdqb6/+49qqkf/0ndroNUKZ13bqmn9wbhFrhoNOKWUUC6wZ+WWUIoZCxHCIvA6qYrWfJk+lG59e4e7biLlsdq7j1XkVLjtD2vw5wfQAAAA",
-    "title": "청춘이란 무엇인가",
     "image": "http://bookthumb.phinf.naver.net/cover/066/468/06646893.jpg?type=m1&udate=20151003",
+    "author": "헤르만 헤세",
     "publisher": "스타북스",
     "quotes": [
         {
@@ -105,5 +103,8 @@
             "page": "228",
             "text": "진실로 올바른 자세로 기도하는 사람은 자기 자신을 위해 어떠한 것도 원하지 않는다. 다만 자기의 입장과 곤궁을 말할 뿐이다. 기도란 마치 어린아이들이 자기의 잘못과 감사를 노래하는 것과 같다. "
         }
-    ]
+    ],
+    "title": "청춘이란 무엇인가",
+    "pubdate": "2011-05-25",
+    "link": "http://openapi.naver.com/l?AAADWLOw+CMBRGf81lMSE8+hw6tDwGZVdcDEgNKFDEauK/txBM7nDy3XOebz1/BWQJqAhkugIBzhbgKSgEmQKeAQt2C8lkndyPAqN/ydkSVOAkr531TbTWThBLiHJ3tTEPf6w+evavZtiGpt7g0mhbdb0/ta7I666BOCUEEcZjz4oQEYpDzjANcOANghVHFyp6QOhEQnzPi6gvy3045ueXceUPjvdG384AAAA="
 }

@@ -1,8 +1,6 @@
 {
-    "author": "하버드 비즈니스 프레스",
-    "link": "http://openapi.naver.com/l?AAAC2LyQ6CMBQAv+ZxMSGVFmgPPbQsMTFe5KQXw1JlEUF8avh7iyGZw2SSeb7NNEtIItAxCPYXASpeRNjCN5Ao0Bw0WRLnoIhTT+Yqa8QRqAIvtRTD0LmP/GMmtxz6NVTFKpfKYN7c3bG2R1o0FdCYccF9KhyUWxYENAx9QkIWOL08zTpvo0wf9tkr/WJ7PNvB0zeyQ+zs+QOBD3bXswAAAA==",
-    "title": "코칭의 기술",
     "image": "http://bookthumb.phinf.naver.net/cover/048/985/04898539.jpg?type=m1&udate=20140616",
+    "author": "하버드 비즈니스 프레스",
     "publisher": "한스미디어",
     "quotes": [
         {
@@ -69,5 +67,8 @@
             "page": "0",
             "text": "보상을 주자\n○ 가식적인 보상(임금인상, 승진)\n○ 상징적인 보상(트로피)\n○ 무형의 보상(신뢰) "
         }
-    ]
+    ],
+    "title": "코칭의 기술",
+    "pubdate": "2008-09-29",
+    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBQFv+ayMSE8ir1ddNHyMMYFiW6MG0OlBqIIlkrk7y2G5CzmTDLvjzYzhzwFmQEjf2AgsgWYM7iBXIBEkMGiEEEEXmP0nTfWDhALiAo31fcP/1VN2vi3vltFrVa41tpW7dMfGlcUqq0hzggyTGLmWR6SLU1C9yih6HUcInk2aTl9L7tRH8Zc2z0tq+k0M3EUrvwBbt3EibMAAAA="
 }

@@ -1,8 +1,6 @@
 {
-    "author": "장 지글러",
-    "link": "http://openapi.naver.com/l?AAAC2LOw+CMBRGf81lISGFFmgHhpaHcVHDpJMBWwPhKamo/97SkNzh5J7vvN5q+SWQp8AYsNTdiBIQFHIOAm+8uQwYtY4joMYJEMi8dkeRa+chiMiOMIh0G/EIuAXKgRG7MT1ymkU9k0brGTCHoDBXT1PnjdWqFu8xDftD1jvcpdJV23tzY4qibiXgzEc4RoTEjk58EkU4jgmjIQmcIfl0al307dib/DsP8pz1siz5dTxdDtykf0pj1vT1AAAA",
-    "title": "왜 세계의 절반은 굶주리는가",
     "image": "http://bookthumb.phinf.naver.net/cover/103/704/10370447.jpg?type=m1&udate=20160520",
+    "author": "장 지글러",
     "publisher": "갈라파고스",
     "quotes": [
         {
@@ -37,5 +35,8 @@
             "page": "171",
             "text": "그들은 모든 불꽃들을 꺾어버릴 수는 있지만 결코 봄을 지배할 수는 없을 것이다. "
         }
-    ]
+    ],
+    "title": "왜 세계의 절반은 굶주리는가",
+    "pubdate": "2016-03-21",
+    "link": "http://openapi.naver.com/l?AAAC2LywqDMBBFv2bcCJKYRJOFi8QHtC67KO2mGLUqbaoVW7Bf3xiEYTjce+77085rAnkKQoBI/Y04BcUhl6DIxluXgeCukwi47RQoZKO948h3OgMVOYmASjdJRiAdcAmCOsfukdfP7T3pl2UCIiEs7OlxfASv6tvOQT2aPWj0DremXarhGUy9XRR6aIBkGJEYURp7S4JpFDMsOLMv9ExyZB029e9y1rrMy75bB3MtVpaf6MEO/3YvtjPzAAAA"
 }

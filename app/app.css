@@ -37,7 +37,7 @@ a:focus {
   }
 }
 
-.quote-summary{
+.quote-summary {
   text-overflow: ellipsis;
   overflow: hidden;
   /*white-space: nowrap;*/
@@ -45,8 +45,14 @@ a:focus {
   font-size: 0.9em;
 }
 
-
 .book-img {
   height: 10em;
   width: auto;
+}
+
+.quote-detail {
+  border-style: none;
+  background-color: #fff;
+  white-space: pre-wrap;
+  font-size: 0.9em;
 }

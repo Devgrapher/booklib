@@ -1,8 +1,6 @@
 {
-    "author": "파울로 코엘료",
-    "link": "http://openapi.naver.com/l?AAAC3LQQuCMBwF8E/z9yjplvt72GEzhaBbkNAlXFtsmGlrCfXpmyG8w+89eM+38R8OtQSJgNUCUYD4A6NpYr25cRvCBERA3sSocezTRzcbn17HYR20WnHRJnTunk42PhrlNJBdQRgrkSWBZ7RYCi23uMmTgc+176Wrj98MD8xUkEtxVvNpwH3bvuLzB0k+OXWgAAAA",
-    "title": "브리다",
     "image": "http://bookthumb.phinf.naver.net/cover/063/779/06377987.jpg?type=m1&udate=20101116",
+    "author": "파울로 코엘료",
     "publisher": "문학동네",
     "quotes": [
         {
@@ -105,5 +103,8 @@
             "page": 0,
             "text": "\n\"소울메이트는 뭔가요?\"\n...\n\" 윤회를 생각하면, 아주 어려운 문제 하나와 맞닥뜨리게 돼. 처음엔 세상에 아주 적은 수의 인간들만 있었는데 오늘날에는 어찌하여 이렇게 많은 수가 있고, 이 새로운 영혼들은 다 어디서 왔을까?\"\n...\n\" 우리는 몇차례의 윤회를 통해 나뉘지. 크리스털과 별이 쪼개지듯이, 세포와 식물이 분열하듯이 우리의 영혼도 분화되는거야.\n우리의 영혼이 둘로 나뉘고, 그 새로운 영혼들이 또다시 둘로 나뉘고. 그렇게 세대를 거쳐오면서 우리는 세상 곳곳으로 널리 퍼지게 돼.\""
         }
-    ]
+    ],
+    "title": "브리다",
+    "pubdate": "2010-10-20",
+    "link": "http://openapi.naver.com/l?AAAC2MsQ6CMBiEn+ZnJNJCW4YORW0cTNTBgcmALaGRUiRV6dtbDckN313y3fOl58BhX0HFgG1/IAiIP7DIedLPuuO99xNgAUjGtM490rF56zm9O7sOql3hprRvzJBOfTRkaxTgHcGUlowmnmc5oUVWsgJtYrdcA6pOn/o4oIPBU7D1MoZ4pKRU5+tyie4XOD9Hp6IAAAA="
 }

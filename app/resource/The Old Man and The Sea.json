@@ -1,8 +1,6 @@
 {
-    "author": "Ernest Hemingway",
-    "link": "http://openapi.naver.com/l?AAACssTS2qtA3JSNX2z0nR9k3M007MS9EG8YNTE9UyilLTbDNKSgpUjR1VjdyAKCk/P1svL7EstUgvOT8XKpCSBGXEp6SWJGbm6BVkAHW4JWWmqBq7WFgCoZGBWomtoYmZmbG5uYmlsYGJgVqubU5kdnlYea5pUURAVpZLqKtRTrFxcHiQn2uYAVAfAKKmSemaAAAA",
-    "title": "The Old Man and The Sea",
     "image": "http://bookthumb.phinf.naver.net/cover/089/898/08989820.jpg?type=m1&udate=20150719",
+    "author": "Ernest Hemingway",
     "publisher": "북플랜트",
     "quotes": [
         {
@@ -61,5 +59,8 @@
             "page": "0",
             "text": "Since i'm not crazy so I didn't care "
         }
-    ]
+    ],
+    "title": "The Old Man and The Sea",
+    "pubdate": "2015-04-10",
+    "link": "http://openapi.naver.com/l?AAACssTS2qtA3JSNX2z0nR9k3M007MS9EG8YNTE9UyilLTbDNKSgpUjR1VjdyAKCk/P1svL7EstUgvOT8XKpCSBGXEp6SWJGbm6BVkAHW4JWWmqBq7WFgCoZGBWomtoYmZuamhpYWJhZmhmVqubWm6kaqRk7GhR6Wpp5lnall6aZhLTpFvmJN3lXs2UCcAGjqgZJwAAAA="
 }

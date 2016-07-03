@@ -1,8 +1,6 @@
 {
-    "author": "파울로 코엘료",
-    "link": "http://openapi.naver.com/l?AAAC2L0QrCIBiFn+bfTTBM3dSLXejmIAjqsrvINFy1uYYN6ulzMTgcDt/he73d9KlANyBSEGgFsgBFl8ElCLoBLUEhEMX/q0HVoFNjEHwhok0k85O7VT7GEYgE3KaYEB75cJndlF9DvwJr1nG2Ll66Zz76ZLSms0AaygXDgmWx2tKyJIwVCJeMZH0FWPHdfT4d+OC9jVh9sSFHZNE+YJrMH7EgEEfFAAAA",
-    "title": "흐르는 강물처럼",
     "image": "http://bookthumb.phinf.naver.net/cover/048/972/04897297.jpg?type=m1&udate=20081022",
+    "author": "파울로 코엘료",
     "publisher": "문학동네",
     "quotes": [
         {
@@ -97,5 +95,8 @@
             "page": "289",
             "text": "사람을 더럽히는 것은 사람의 입으로 들어가는 것이 아니라, 그 입에서 나오는 것이다 "
         }
-    ]
+    ],
+    "title": "흐르는 강물처럼",
+    "pubdate": "2008-10-14",
+    "link": "http://openapi.naver.com/l?AAAC2L0QqCMBiFn+b3JhCdU/df7GLTGZEIXXTTTbg2Ucw0sci3b0ZwOBy+w/d82XnloHJAlwCUBBGDpNtgApDuQAmQAWD8+zKQGSjXBJBtBAtHvHa2DW+XZYJIAClc9Dj2/qN+29m/jcMfGP0fV2OXurv7U+uMQncGopwyTAmm3sJDmqRxiCwJKEVv4FVZfnpyite9OTZDBUSKOqov7UGfB+XMLyNzWm3FAAAA"
 }

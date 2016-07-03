@@ -1,8 +1,6 @@
 {
-    "author": "조슈아 케리에브스키",
-    "link": "http://openapi.naver.com/l?AAADWMywqDMBREv+a6KYgxMZqFi+uLdtdN6bLUmhLrIyoqtF/fGBRmcTjDzLjI6RtDnkGUAkYWGCQM8hTExqdNCQEitQoBhTWBMaZLADlgehyI48CzVQgRcdQk37Ga5wEogl+YlFo3bv9c5eS+dLeLqtzhUcn5WbfuoMyiKOsKaMZZSLhPnTkmjHMahoFHAkKdLr4u7X3BVue+mX/UeiMX79c304hnjWb5B1t2hBzhAAAA",
-    "title": "패턴을 활용한 리팩터링",
     "image": "http://bookthumb.phinf.naver.net/cover/064/716/06471623.jpg?type=m1&udate=20150725",
+    "author": "조슈아 케리에브스키",
     "publisher": "인사이트",
     "quotes": [
         {
@@ -37,5 +35,8 @@
             "page": "171",
             "text": "전역 데이터는 반드시 필요하다는 것이 증명되기 전까지는그 필요성을 의심해야 한다. "
         }
-    ]
+    ],
+    "title": "패턴을 활용한 리팩터링",
+    "pubdate": "2011-02-09",
+    "link": "http://openapi.naver.com/l?AAADWMvQ6DIBhFn+ZzaWKKoMjAgKhLuzs2ohiMtf4EbX37otHkDifn5t5p0fPGIUshliDiAwgkBDIJbOfbrhgDJg8lQLDDhM64LgERgZDXAbsO7kdFIUaemXXDjbUjYAFB7qKGofM/5apnvxr6U9TqhFetbdm+/dG4Ra7aGnAaEYqiAHuWIxLRELE4ZJhSr+eN2dRX9oGaqrX6PctifmRiKWhhO7f7AxexSDPfAAAA"
 }

@@ -1,8 +1,6 @@
 {
-    "author": "레베카 라인하르트",
-    "link": "http://openapi.naver.com/l?AAAC2Luw6CMBhGn+ZnMSGVQi9Dh3LTmcXoYoAWKIhgU0l8e6sh+YaT8+W83tp+BBQppAgkhyIHzv+QAffMDlBISNnv9ooxkCgYrO7E4NwKWEJU+jXLMoXPetM2bJd5F6rZ4a60q80jXAdflI1RgHNCowhTGjhxjAnxFPMkQTSYhTTXy3juxspm26myq2oxqk1Pya333RdSmo/tsQAAAA==",
-    "title": "방황의 기술",
     "image": "http://bookthumb.phinf.naver.net/cover/067/223/06722377.jpg?type=m1&udate=20150715",
+    "author": "레베카 라인하르트",
     "publisher": "웅진지식하우스",
     "quotes": [
         {
@@ -81,5 +79,8 @@
             "page": "310",
             "text": "태어나면서 부터 노예인 사람은 없다. 노예가 되는 건 자유가 두려워 스스로를 가둔 사람이다. "
         }
-    ]
+    ],
+    "title": "방황의 기술",
+    "pubdate": "2011-08-29",
+    "link": "http://openapi.naver.com/l?AAAC2LvQ6CMBRGn+aymBAKQnuHDgXKQPyZiImLASlCtBRJlfD2VmPyDSfny3m+1LxykCmkAQgEmQPiDzJAx2wDUkDKvrdTjIEIvH5WHe+tnSASEBZujTF3f6zfavavRv9F2/zh0ipbDw9/6l1RNEMLUZ7QMIwo9Swn24TGBFlMEko8zavxWGa3U6clnsv9uuhsWGoz4u5Que4DtssUJ7EAAAA="
 }

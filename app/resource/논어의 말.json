@@ -1,8 +1,6 @@
 {
-    "author": "나가오 다케시",
-    "link": "http://openapi.naver.com/l?AAAC2LywrCMBQFv+ZmI5Ro0qRZZNH0QUHoQkTQjaQ22oe1NcSCfr1RCmcxnGGeL2PfEjIFUQgqgSwBwUDRP6QgotXPxRwERo01V9k4NwGJYZP7VePYBw89GxtcxmE56mqBc22cbu/B1Pgir9oaSMo4J4Ri5OSaMkY4p4JiwtEg29txHnadiE+lLvG+U4dPkRThZLa9775EYr1jqAAAAA==",
-    "title": "논어의 말",
     "image": "http://bookthumb.phinf.naver.net/cover/067/733/06773340.jpg?type=m1&udate=20150715",
+    "author": "나가오 다케시",
     "publisher": "삼호미디어",
     "quotes": [
         {
@@ -73,5 +71,8 @@
             "page": "242",
             "text": "누군가는 정의를 관철함으로써 삶의 평온함과 충만함을 느끼기에 정의를 추구하지만, 다른 누군가는 정의를 따르면 여러 이로움을 얻을 수 있기에 정의를 추구한다. 이상적인 것은 전자이지만 후자 역시 그 행동은 정의를 따르기에 나쁜 것은 아니다. (기부도 이와 똑같다고 생각한다) "
         }
-    ]
+    ],
+    "title": "논어의 말",
+    "pubdate": "2011-12-10",
+    "link": "http://openapi.naver.com/l?AAAC2LyQ6CMBRFv+axMWmAFtouuigUJCbqSl0ahhoIYhnq+PWiIbmLk3tyhrse3wKSCFgAUQxJDDyEiPxBAWern5MUuOvUo76I2toesAQ/nVcY06Jb/tAjKk23HFWxwLnSNm+uqK/nIi2aCrAKKcWYuI4VHglp4HFGOPO50wm1a09bk2XTJl2/Sr3vtTvIJz4cP9PcfQFxya20qAAAAA=="
 }

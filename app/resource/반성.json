@@ -1,8 +1,6 @@
 {
-    "author": "김영승",
-    "link": "http://openapi.naver.com/l?AAAC2LTwuCMByGP81vx5Huj9thB1cKQtRBOoe2yax0Nmbht28H4YH34YXns9qwKag06ANIAdURBAWdIRfsoFyMC5AS8jrRe//Cc/e1AT/8tB+m3+VubOzGN15cKup+NEBOlLMCRZVRzklRUMloxtGkruF2gVzbpj2ztKJcYng27ewk2Vb/S+EfoTGKdpYAAAA=",
-    "title": "반성",
     "image": "http://bookthumb.phinf.naver.net/cover/000/046/00004657.jpg?type=m1&udate=20070504",
+    "author": "김영승",
     "publisher": "민음사",
     "quotes": [
         {
@@ -57,5 +55,8 @@
             "page": "139",
             "text": "\"그럼 욕먹어. 욕먹고 나면 더 잘 쓰게 돼.\" "
         }
-    ]
+    ],
+    "title": "반성",
+    "pubdate": "2007-04-20",
+    "link": "http://openapi.naver.com/l?AAAC2LvQ7CIBgAn+ZjbIRCKQND0TZqdLGLm6GCodb+Earp28vQ5IbLJTcv1q8SSgVqByKHcg85BYWR8/YlXQgTpAWQKtKMY5cM+mt98hz7LZhmk4exQbefZHLxqJrWQHqgGeMoSEwzzrDIGWYEo17Ot9oMQFSdHpd3cfnxs7ifOuHWq9Y0bn8tNAIglAAAAA=="
 }

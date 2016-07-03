@@ -1,8 +1,6 @@
 {
-    "author": "생텍쥐페리",
-    "link": "http://openapi.naver.com/l?AAAC2Myw6CMBQFv+aybIpF4C66oApxoZL4ILIyINUSRBCLil9vQ0jOYjLJnGcvu4FDuAB0QTgQCggM0NEg4HyEEJBaqpNXrrRugQUwi8zypqnII3vLjlyaehJFPsG5kDor76RVpojysgC2RI9ShmhpbjuuyzzPQd/2favm281nN+jjV7yS/laZi2C9X/3iwylO2tSUfxELS3+pAAAA",
-    "title": "어린왕자",
     "image": "http://bookthumb.phinf.naver.net/cover/097/003/09700399.jpg?type=m1&udate=20151218",
+    "author": "생텍쥐페리",
     "publisher": "열린책들",
     "quotes": [
         {
@@ -21,5 +19,8 @@
             "page": "122",
             "text": "\" 그래. 넌 나에게 아직은 다른 수많은 소년들과 다를 바 없는 사람이야.\n그래서 난 네가 필요하지 않아.\n나 또한 너에겐 평범한 한 마리 여우일 뿐이지.\n하지만 네가 나를 길들인다면 우리는 서로 필요하게 되는 거야.\n너는 나에게 이 세상에 단 하나뿐인 존재가 되는 거고,\n나도 너에게 세상에 하나뿐인 유일한 존재가 되는 거야~.\"\n\"부탁이야~. 나를 길들여 줄래?\"\n정말 중요한 건 눈에 보이지 않아\n\"너의 장미꽃이 그토록 소중한 것은\n그 꽃을 위해 네가 공들인 그 시간 때문이야.\"\n\"너는 그것을 잊으면 안 돼.\n너는 네가 길들인 것에 대해 언제까지나 책임이 있는 거야.\n너는 네 장미에 대해 책임이 있어.\"\n\"나는 내 장미꽃을 책임져야 해\"\n그래, 집이든 별이든 사막이든 그것을 아름답게 하는 건 눈에 보이지 않지 "
         }
-    ]
+    ],
+    "title": "어린왕자",
+    "pubdate": "2015-10-20",
+    "link": "http://openapi.naver.com/l?AAAC2LsQqDMBQAv+Y5Smyi6RsyxBpxKLR0dClaIwlqo5IW7Nc3iHDDcXDLR6+bAHUBzCBnoHKQQcheEDDdRQGSyKy6F8b7GaiEUxlonRvid/PVa/xy0xG69pBnp31jx3g24Shb2wEtkBNCESMvEpbxNMFzyjjl0SRqRYvBVz9/f4yaX290XLK62ipLZPj+Mo6t8qcAAAA="
 }

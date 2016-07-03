@@ -1,8 +1,6 @@
 {
-    "author": "스콧 마이어스",
-    "link": "http://openapi.naver.com/l?AAACssTS2qtHVNS0tNLsksS9V2VjVyAiK1jKLUNNuMkpICVWNHVSM3IErKz8/Wy0ssSy3SS87PhQqkJEEZ8SmpJYmZOXoFGUAdbkmZKarGLhaW5gZGlpZqJbaGJmZmxubmJpZGpqYmarm22VleLu4llkWhfgHBQNsizYvCK73yA33cSn0M0oE6AQYmM/uWAAAA",
-    "title": "Effective C++",
     "image": "http://bookthumb.phinf.naver.net/cover/089/702/08970299.jpg?type=m1&udate=20160225",
+    "author": "스콧 마이어스",
     "publisher": "프로텍미디어",
     "quotes": [
         {
@@ -181,5 +179,8 @@
             "page": "357",
             "text": "std::nothrow 를 쓰면 예외대신 null을 리턴한다. "
         }
-    ]
+    ],
+    "title": "Effective C++",
+    "pubdate": "2015-03-26",
+    "link": "http://openapi.naver.com/l?AAAC2LQQvCIBhAf41eAtncmvPgYa12igiKXUPnZ1pN17BR/z4Pg3d4PHjvD8w/cTAGhugW2LSI7hLYzmCEjXFCRYNol1AhPImXC8xkCOMatFrlpiFK9yKTTUennEbFvuYso5zjKPKyYtuc12WdMYZHcWm/wareP+79WVMvT9nRSNdUV12m7w/CnCWIlAAAAA=="
 }

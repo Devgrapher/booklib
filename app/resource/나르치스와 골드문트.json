@@ -1,8 +1,6 @@
 {
-    "author": "헤르만 헤세",
-    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBQFv+ayMSFAgbYLFrfloYkrF8adASkB5GVTTeTrLcTkLE4mM6+30t8EMgEsAM62gxGIEDIJgu9EAkPAnXAOzDtAhiAI4G5zAlzumQ0sSTdbMKfVqklaYxYgCEFuV83z053Kj9LuYx7/oK7+514rU3aDu7S2yKuuBpL6vkeDyDGJH8YxoTTkhBLmjAkp5doXYr1hPxRTo4PL+Yj02uj2ZLMf4BC0zNQAAAA=",
-    "title": "나르치스와 골드문트",
     "image": "http://bookthumb.phinf.naver.net/cover/001/107/00110725.jpg?type=m1&udate=20130129",
+    "author": "헤르만 헤세",
     "publisher": "민음사",
     "quotes": [
         {
@@ -89,5 +87,8 @@
             "page": "461",
             "text": "이 친구의 삶은 얼마나 신비로운 것이었을까! 물결처럼 흘러온 그의 삶은 얼마나 슬프고도 매력적인 것이었을까! 그 삶이 작품으로 남긴 결과는 얼마나 고결하고 명징하게 서 있는가 "
         }
-    ]
+    ],
+    "title": "나르치스와 골드문트",
+    "pubdate": "2002-07-30",
+    "link": "http://openapi.naver.com/l?AAAC2LXQuCMBhGf83rTSDqZtsuvNj8CoLAom5D3WJifrYC/31ThOfi4XDO9FXzEkEqgAbA6Hp4CAJDGoNgG4mBcuAbYQyod4CUg0DAN5shYPGW2cCSZLUFdfSsXpE2ZgTEIcjsqmFo3b78qdmth24HstrPUypTNm931LbIqkYCSnzfI0HomMjHRxL6jGKGKXa6SD/Itc4nm55key/6W770tGjJBRfnjw3/+N164NYAAAA="
 }

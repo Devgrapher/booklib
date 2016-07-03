@@ -1,8 +1,6 @@
 {
-    "author": "Paulo Coelho",
-    "link": "",
-    "title": "Adultury",
-    "image": "http://d.gr-assets.com/books/1406247571l/20819682.jpg",
+    "image": "",
+    "author": "",
     "publisher": "",
     "quotes": [
         {
@@ -205,5 +203,8 @@
             "page": "400",
             "text": "True Love does not consist of exposing your weaknesses to others, but instead of being unafraid to show when you need help and rejoicing in finding that things are better than what others said. "
         }
-    ]
+    ],
+    "title": "Adultury",
+    "pubdate": "--",
+    "link": ""
 }

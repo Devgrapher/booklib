@@ -1,8 +1,6 @@
 {
-    "author": "해리 벡위드",
-    "link": "http://openapi.naver.com/l?AAAC2LOwvCMBgAf82XsZAHeQwZrGnRIRBwqJu0NjXB1j6Mov/eIoUbjoObX375aij2oDjk8i8McgOFAUkgVygsvtMhpQnoDki50ozjPXvUb79k13HYQttscml9qmOfTWE9yia2QA1nghJFUdKYcU6FYEoSLtGg8bO61U72zkb58Yf5xM+28gK7o12/H2diGKieAAAA",
-    "title": "언씽킹",
     "image": "http://bookthumb.phinf.naver.net/cover/064/732/06473293.jpg?type=m1&udate=20150715",
+    "author": "해리 벡위드",
     "publisher": "토네이도",
     "quotes": [
         {
@@ -49,5 +47,8 @@
             "page": 0,
             "text": "\n"
         }
-    ]
+    ],
+    "title": "언씽킹",
+    "pubdate": "2011-02-24",
+    "link": "http://openapi.naver.com/l?AAAC2Luw6CMBRAv+YyktBe+hg6WB7Rgc2lkwEpKRGkYtXg19sYkjOcnOQ8XnbdFFQFSAZa/AVBl1CVIAhombjVDsqF4IEegNSRbllu6b192zW9LvMe+m6XS29DO06pd/Gou7EHWjLklEiaBJUh43kmRY4CeTKrhg8+x+YocXqejXHSTkC0Pn3c9jXx/AHXuhKBoAAAAA=="
 }

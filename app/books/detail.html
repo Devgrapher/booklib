@@ -6,6 +6,7 @@
         <h4 class="text-left">{{book.title}}</h4>
         <p class="text-left">{{book.author}}</p>
         <p class="text-left">{{book.publisher}}</p>
+        <p class="text-left">{{book.pubdate}}</p>
       </div>
     </div>
   </div>
@@ -15,8 +16,7 @@
       <uib-accordion-heading>
         <div class="quote-summary">{{getSummary(quote.text)}}</div>
       </uib-accordion-heading>
-      <span>{{quote.text}}</span>
-      <span>- {{quote.page}}</span>
+      <pre class="quote-detail">{{quote.text}}- {{quote.page}}p</pre>
   	</uib-accordion-group>
   </uib-accordion>
 

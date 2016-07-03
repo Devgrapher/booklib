@@ -1,8 +1,6 @@
 {
-    "author": "한비야",
-    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBREv+ayMSGlFGgXXVAekcSFcacbQ6UKAeRhJerXWxqSWUzOmZneav5yyAQIBIyshWVAE8gSYCkwurOIgFibYfE6NCgOIU6sC4AGVkXAkB1RAsw6anbEqWd157XWI/gx4NxEDkPrPstFze5t6DdQya1cK6XLpnPH2jxy2VTgpzjwGPKQo7lHwtCPIsICjLHT87xo1bGTZyW6h/gdJjIup6L97KfLy/z+VKuaaOAAAAA=",
-    "title": "바람의 딸 우리땅에 서다",
     "image": "http://bookthumb.phinf.naver.net/cover/025/190/02519010.jpg?type=m1&udate=20150715",
+    "author": "한비야",
     "publisher": "푸른숲",
     "quotes": [
         {
@@ -61,5 +59,8 @@
             "page": 0,
             "text": "\n"
         }
-    ]
+    ],
+    "title": "바람의 딸 우리땅에 서다",
+    "pubdate": "2014-03-10",
+    "link": "http://openapi.naver.com/l?AAAC2LPQuDMBRFf81zKUiMiSZDhsSPodClUNqtmBqJtFYbbEF/fWMQ3nDeufd+vsYtAioFCgEnG/AKWAFVAbwEzg5BEVAbeSe3olcyA1mEjAKjIcqBo1BiBHjImO+RyDrTCTvPE6QScO1Pj+Mzfjc/4+LHOOyi1TvcWzM3/SuerF/Uum8hLTFNOEpQNIuEZLl/GE1wjqNBTPX1NsjOUcDquOoBI3cq7Llbu4Vd/PIPpUcuM+IAAAA="
 }

@@ -1,8 +1,6 @@
 {
-    "author": "Scott Meyers",
-    "link": "http://openapi.naver.com/l?AAACssTS2qtHVNS0tNLsksS9UODvFRyyhKTbPNKCkpUDV2VDVyA6Kk/PxsvbzEstQiveT8XKhAShKUEZ+SWpKYmaNXkAHU4ZaUmaJq7GJkaGRkaWSpVmJraGJmZmxubmJpZGZmqpZraxBpaOLhmlGen1dZ7Ao0waS80MXfMbPI3zMyIxCoEwB0adiCkgAAAA==",
-    "title": "Effective STL",
     "image": "http://bookthumb.phinf.naver.net/cover/021/229/02122929.jpg?type=m1&udate=20120613",
+    "author": "Scott Meyers",
     "publisher": "정보문화사",
     "quotes": [
         {
@@ -61,5 +59,8 @@
             "page": "256",
             "text": "ptr_fun은 단지 not1과같은 함수에서 필요한 typedef 몇 개를 추가할 뿐이다. 그래서 ptr_fun이 필요하다. "
         }
-    ]
+    ],
+    "title": "Effective STL",
+    "pubdate": "2006-03-29",
+    "link": "http://openapi.naver.com/l?AAACssTS2qtHVNS0tNLsksS9UODvFRyyhKTbPNKCkpUDV2VDVyA6Kk/PxsvbzEstQiveT8XKhAShKUEZ+SWpKYmaNXkAHU4ZaUmaJq7GJkaGRkaWSpVmJraGJmbmpoaWFiYWhuoJZrW57jbxRSmu/h4x9YUO5TnJhiWQg0xy8gpNw5Lx2oEwBM5NzQkgAAAA=="
 }

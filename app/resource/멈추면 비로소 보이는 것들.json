@@ -1,8 +1,6 @@
 {
-    "author": "혜민",
-    "link": "http://openapi.naver.com/l?AAAC2MXQuCMBSGf83xJpB0a55deLH5ARVUREFdhTpDKZ3JCvz3bSWci5fned/zetfjFEMmQXBAhCwByYDTmUi6cEla90cB8MSVkAEmf0dsyyGe/oIEFPaBdQJkCEgc4gQE9ZqxvseNMQMQAWFur9T64ffFpx79SnczUOUcbqo2Rfv0h8Yu8rJVQFKGS0aReyYOKGMkiiinSFZeFx+nq9FFerrstmGjzjrbb9b9oSi7StjdF+o/6qDpAAAA",
-    "title": "멈추면 비로소 보이는 것들",
     "image": "http://bookthumb.phinf.naver.net/cover/068/064/06806489.jpg?type=m1&udate=20140911",
+    "author": "혜민",
     "publisher": "쌤앤파커스",
     "quotes": [
         {
@@ -145,5 +143,8 @@
             "page": "279",
             "text": "성경에는 물고기 한 마리가 두 마리, 세 마리로 불어났다는 기록은 없어요. 하늘에서 떨어졌다는 이야기도 없고요. 예수님께서 하늘에 올리신 기도르 듣고 감동한 사람들이 품속에 숨겨둔 도시락을 꺼냈던 겁니다. "
         }
-    ]
+    ],
+    "title": "멈추면 비로소 보이는 것들",
+    "pubdate": "2012-01-27",
+    "link": "http://openapi.naver.com/l?AAAC2MTQuCQBCGf814CUTddZs5eNjVjCAIunQMzQ1FzQ+2on/fWMIwvDzvx/S08yeBnQFNgAi7FIwCkisxcrMow94fhUDpEkIFmP49wakFUfYTBlDzAHsaTAQoFkQCtPTq2d6T2rkRhIYo5yuHofUfxcvO/m3oV1CVq7hW1hVN5481N/KyqUBkCgMlkTyXhFJt45AwDrYUeX1C9vzJXkE35cWxO/C6wTe//eP0dOOl5e4XnePDlO0AAAA="
 }

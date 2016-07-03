@@ -1,8 +1,6 @@
 {
-    "author": "헤르만 <b>헤세</b>",
-    "link": "http://openapi.naver.com/l?AAAC3MvQ6CMBiF4as5LCYESqHtwNBCGUwcJHHQxViBQBSLpBr16q0/yTd8eZL3XG/t/MyhSwgGSaELcArFoRW4hKCLD4kSin5IRuAMWkIR8GLxJQYRfQcy8F/nkQb93HZ579yERIJU/oy1p/ByuLdzeLTjHxrzf/ZN6w7DOZx6X1RmaJCULBaExmng8phmWcJYGhHKeTDmdTa+4odpyOCX1fq5svVmW3bmXi932pdvLWqVMdgAAAA=",
-    "title": "헤세는 이렇게 말했다",
     "image": "http://bookthumb.phinf.naver.net/cover/071/924/07192415.jpg?type=m1&udate=20150811",
+    "author": "헤르만 <b>헤세</b>",
     "publisher": "책읽는오두막",
     "quotes": [
         {
@@ -133,5 +131,8 @@
             "page": "286",
             "text": "그에게 유일하게 도움이 될 수 있는 길은 그의 요청에 따라 내 충고나 내 지식을 들려주는 것이 아니라, 바로 자기 자신이 대답해야 한다는 점을 느끼게 하는 것이다. (삶의 의미를 묻는 청년의 질문에…)"
         }
-    ]
+    ],
+    "title": "헤세는 이렇게 말했다",
+    "pubdate": "2013-04-19",
+    "link": "http://openapi.naver.com/l?AAAC3Muw6CQBRF0a85NCSEgYGZKSiGV4xGG6lsDMhTRBBRwt8LSHKLk5Xs+/pk/eQg8CEYJEXggVO4HIELLiGoupDw4dKFpA7OEEi4BrinrsQg9PWBDf7vZqRK2We5Uw5DB1PCCOdL2rbWnvE367Vb22yQJtu4ptkQVw+tK+ciTKoUps+IMCixlMEh1GYWEdzWibCUxsmP9bQbx3ehR7a4H/Zd1F5ocYrPvJi7H7Vwg8DWAAAA"
 }

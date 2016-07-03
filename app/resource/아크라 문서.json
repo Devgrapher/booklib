@@ -1,8 +1,6 @@
 {
-    "author": "파울로 코엘료",
-    "link": "http://openapi.naver.com/l?AAAC2LPQ+CMBRFf81jMSF8FNo3dIACi4MMRmUyINVWwSKpJvx7S0Jyh3Nvzv185bxwKAVgAoxAWQALIRNQ5oAF5GK3kus5WyVnoPDULO9cWTtBnEFUuXTGvPx3+5OzfzPjNvTdBtde2lYP/qTco+p0D3FBI4ZBQDzLQ5KmMaUEaYrojVzp80nXYXOsL1Fi7PJs9odmMIkKHu73BwNCPmmxAAAA",
-    "title": "아크라 문서",
     "image": "http://bookthumb.phinf.naver.net/cover/072/890/07289004.jpg?type=m1&udate=20160218",
+    "author": "파울로 코엘료",
     "publisher": "문학동네",
     "quotes": [
         {
@@ -81,5 +79,8 @@
             "page": "176",
             "text": "참된 연인은 \"내 옆에 있어. 내가 널 돌봐줄께. 우린 서로에게 충실한 연인이니까\"라고 말하는 사람이 아니라, 충심이 자유와 함께하는 개념임을 아는 사람이다. "
         }
-    ]
+    ],
+    "title": "아크라 문서",
+    "pubdate": "2013-09-05",
+    "link": "http://openapi.naver.com/l?AAAC2LvQ6CMBhFn+ZjMSGUttIOHaDAhtHEOLAYsZUfwUJTjb69JSG5w7k35y5vbX8CCgmcAiNQ5MAQpBKKDHgOmdyt5HvGVskbXAad1Q/ROTcDTiEufRpjnuHr9tE2vJtpG1SzwVVpd+vHcO78o2x6BThPYsajiAROILJPKOKMYprgYBL1acBLa47D9zBV9kz4pa0rNDZqYf73BxxQibuxAAAA"
 }

@@ -1,8 +1,6 @@
 {
-    "author": "조영호",
-    "link": "http://openapi.naver.com/l?AAAC2Myw6CMBREv2bYmBBoC7QLFi2PuBATXxs3BgQDUQSxGvx7CyG5i5OZOff1qYZfiERCORAxkgiKQLEJZADuIIkhfEhvSsxA8NVEnEBGMyhINvsUKpo7wefIbD3zyaqH6hbWWvegEiQ1V3Td3X7m32qwr127BGWxwKWsdN487L42Rlo0JWgsXOYJn1s6dJnv0yBgghIWWG2oz11WrEHUmWz0m4zZcSvyvdyNB+8kjfkHxBpkrOEAAAA=",
-    "title": "객체지향의 사실과 오해",
     "image": "http://bookthumb.phinf.naver.net/cover/091/459/09145968.jpg?type=m1&udate=20160218",
+    "author": "조영호",
     "publisher": "위키북스",
     "quotes": [
         {
@@ -25,5 +23,8 @@
             "page": 0,
             "text": "\n객체향의 정수. 객체를 작은단위로 분리하고 그 객체들에 적절한 책임과 역할을 부여한 것."
         }
-    ]
+    ],
+    "title": "객체지향의 사실과 오해",
+    "pubdate": "2015-06-17",
+    "link": "http://openapi.naver.com/l?AAAC2MuQ6DMBBEv2ZpIiEOG3YLCpuriFJEokkVcZiAEo4QyPH3MQhpi6eZeftc1PQLIBYgLaAI4hCkA5KtIHxAC+IIyAPB10QPCA8roQMi3ECCYJvvggy3jnCL9JbrT0YzqTpo5nkEV4CT6CuG4W72+VtNZjl0e1AVO1wrNeftwxwbbSRFW4Ebkc04eWjMgc08n9uEDMnlRhdk5KfN8knPLX5Lu+6of8WI2el2vGjvDyxJMxHfAAAA"
 }

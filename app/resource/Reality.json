@@ -1,8 +1,6 @@
 {
-    "author": "이지환",
-    "link": "http://openapi.naver.com/l?AAAC2LsQrDIBQAv0ZHqU+T1MEhUPIBhUC3otFUE61WbCD9+mYI3HAc3Odryy7vVgVfd+yKnaWrNSPWIxgOdEoreavNFjKleAajT3kaW5UPJLvjGLQ3iN3ohXIOAnCVlLct6zou4CoaHOWWFx1/cw/01XgLS4Q8PmgIEx2P8Q9wfE/8iwAAAA==",
-    "title": "Reality",
     "image": "http://bookthumb.phinf.naver.net/cover/101/442/10144292.jpg?type=m1&udate=20160218",
+    "author": "이지환",
     "publisher": "디지털북스",
     "quotes": [
         {
@@ -57,5 +55,8 @@
             "page": 0,
             "text": "\n###\nQuite perplexing but insightful and compelling.\nPlatonism is the view that there exist such things as abstract objects, where an abstract object is an object that does not exist in space or time and which is therefore entirely non physical and non mental. Platonism in this sense is a contemporary view.\nReductionism is a philosophical position that holds that a complex system is nothing but the sum of its parts, and that an account of it can be reduced to accounts of individual constituents. This can be said of objects, phenomena, explanation, theories, and meanings."
         }
-    ]
+    ],
+    "title": "Reality",
+    "pubdate": "2016-02-05",
+    "link": "http://openapi.naver.com/l?AAAC2LwQqDIABAv0aPomZbHTwIW4sgBvuBodOhLGeZOfr7eQje4fHgLZuJO38YObm0QxvNm9uUZlAJQLuCCuGDvjKbiF7BH0GrQ57aJOkmNNtydMppUF0IJozRlsLECTuda9I2rKkxhp73cSVu7KXIaVy8pffhtv6yuG7DWsY/LAsG14sAAAA="
 }

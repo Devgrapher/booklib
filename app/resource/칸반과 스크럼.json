@@ -1,8 +1,6 @@
 {
-    "author": "헨릭 크니버그|마티아스 스카린",
-    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBREv+ayMSGFFkoXLHoL3WriwujGgFRLlIe1mvD3loRkFidzZt5f45YSagUoAAuoEZCACCABKaDara6QIBnUFRQJSLWOhA4uss7cS+v9DFRCqkPaaXrGY/MzLr5Nw1Z07QbXzvimf8WzDQ/d9h3QiqeEJVREvkxYnlPOM0KYINFQYpbax/LRe8wHfiS+GbU5ZepycOfw+wNUoradugAAAA==",
-    "title": "칸반과 스크럼",
     "image": "http://bookthumb.phinf.naver.net/cover/072/041/07204139.jpg?type=m1&udate=20150825",
+    "author": "헨릭 크니버그|마티아스 스카린",
     "publisher": "인사이트",
     "quotes": [
         {
@@ -13,5 +11,8 @@
             "page": "86",
             "text": "스크럼은 교차 기능 팀을 규정하는 반면 칸반은 교차 기능 팀이 선택사항이다. 전문가 팀도 허용한다.  "
         }
-    ]
+    ],
+    "title": "칸반과 스크럼",
+    "pubdate": "2013-05-13",
+    "link": "http://openapi.naver.com/l?AAAC2MPQ+CMBiEf83LYkIo5aMdOrRAVzVK4maA1lAVi6QY5ddbEpIbLvfc3XvW049BVYCgIAhUAkQE1BsOAoModisjHHgCVQkEAS/WEpWeBf2kb6x3bgTMIZZerbWP8NV89BR2dtgC1W7mqrRrzDMce7+QrVGAyzyOEoRp4BhKsjxFlKQ5ykgwMGrsV4rLfVGnMiKHmhz17I/MfrHn2i//NvFfO7wAAAA="
 }

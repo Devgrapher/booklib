@@ -1,8 +1,6 @@
 {
-    "author": "에드 마이클스",
-    "link": "http://openapi.naver.com/l?AAAC2LTwuCMBxAP83P49gfmXrYYf47RIcVQdAltC00tdlYSd++JcI7PB6819u4r4CqgKyEPF2lAln8RWJI47XUkJKoc+YuOu9nYBJoHWitHdCz+RiHbnbagm43uWrjm35EcxeOuu01sJIQhhMceUFizlmSxFnGKIsmQQ+LOp+UOurHjhDORyuX/gI0z91+COMP75OpLagAAAA=",
-    "title": "인재전쟁",
     "image": "http://bookthumb.phinf.naver.net/cover/001/130/00113070.jpg?type=m1&udate=20141129",
+    "author": "에드 마이클스",
     "publisher": "세종서적",
     "quotes": [
         {
@@ -101,5 +99,8 @@
             "page": "214",
             "text": "C급 직원들에게 단호한 조치를 취하라\n○ C급 직원을 계속 보유하게 되면, 악순환에 빠진다.\n○ EVP의 결정적 요소 중 하나."
         }
-    ]
+    ],
+    "title": "인재전쟁",
+    "pubdate": "2002-09-20",
+    "link": "http://openapi.naver.com/l?AAAC2LsQqDMBQAv+Y5Sl41GocMaTRdnFqQbkVNRLGpVlKpf99UhBuOg3t/zLJxKCRkOZzZLgUI+RdBgMV7UcAw6BfT8d65GSIBJ+VppmkMX/VqlrCd7BF0c8hDG1cPz3Du/aGaQUOUI0YkJYHjGCcpxYxRmhEaWP6d/ZW0ZbLecLteqrvGulrHMpfUCj/+AFlOiJioAAAA"
 }

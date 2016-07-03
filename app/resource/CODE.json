@@ -1,8 +1,6 @@
 {
-    "author": "찰스 펫졸드",
-    "link": "http://openapi.naver.com/l?AAACssTS2qtHX2d3FVyyhKTbPNKCkpUDV2VDVyA6Kk/PxsvbzEstQiveT8XKhAShKUEZ+SWpKYmaNXkAHU4ZaUmaJq7GJhbm5pYmapVmJraGJmZmxubmJpZGJmrJZr6xiYGJXo7J+XYWGWkWgcVuqRG2pRmJqSYpFTDtQHAIsML7mHAAAA",
-    "title": "CODE",
-    "image": "http://bookthumb.phinf.naver.net/cover/087/794/08779469.jpg?type=m1&udate=20150715",
+    "image": "http://bookthumb.phinf.naver.net/cover/073/902/07390287.jpg?type=m1&udate=20150715",
+    "author": "로버트 C. 마틴",
     "publisher": "인사이트",
     "quotes": [
         {
@@ -145,5 +143,8 @@
             "page": "626",
             "text": "상대적으로 비교하자면 파형 파일을 비트맵에, MIDI파일은 벡터 그래픽의 메타 파일로 비유할 수 있겠습니다. "
         }
-    ]
+    ],
+    "title": "CODE",
+    "pubdate": "2013-12-24",
+    "link": "http://openapi.naver.com/l?AAACssTS2qtHX2d3FVyyhKTbPNKCkpUDV2VDVyA6Kk/PxsvbzEstQiveT8XKhAShKUEZ+SWpKYmaNXkAHU4ZaUmaJq7GJubGlgZGGuVmJraGJmbmpoaWFibmlsopZrm+zkHBrk55WemOGVWVniW+laEhScm2fhFZphANQHAGtpEamHAAAA"
 }

@@ -1,8 +1,6 @@
 {
-    "author": "헤르만 헤세",
-    "link": "http://openapi.naver.com/l?AAADWLSwuCQBRGf811I8iY4zwWLsYXCFEQblqFk5aWOipTVL++URTu4nDu+cZXNX0DSGJgLoQYkhAEnTmJQBiDZuBkeRmIgTN7i9gSGUCb4fZSURDRoggwbNVTdQtqrQfwBOxSc1Kpp9MX72pyrqpbRSlXuJSVLprWGWqzSGVTghcTlxGOfUsHLibEo9RHLkbM6oLD/tfnxeM05pmkHyVRducty9ERnc3uDzDyZK/fAAAA",
-    "title": "클링조어의 마지막 여름",
     "image": "http://bookthumb.phinf.naver.net/cover/061/869/06186945.jpg?type=m1&udate=20150715",
+    "author": "헤르만 헤세",
     "publisher": "민음사",
     "quotes": [
         {
@@ -13,5 +11,8 @@
             "page": "54",
             "text": "느낌이란 모두 좋은 것이라오, 증오도 시기도 질투도, 심지어는 끔찍함 조차도. 우리는 가련하고, 아름답고, 멋진 감정 외의 다른 어떤 것으로도 살 수 없다오. 우리가 어떤 감정이든 그르다고 하는 것은 하나의 별을 지워 버리는 것이나 마찬가지라오. "
         }
-    ]
+    ],
+    "title": "클링조어의 마지막 여름",
+    "pubdate": "2009-11-20",
+    "link": "http://openapi.naver.com/l?AAADWLOwuDMBRGf811ESTRmMfg4CNKi9AODt2KrxKxVitpwf76RlG4w+Hc870/7bwEIBPgGCICMoKQrSxjCI1BKwi6vQwkILh9RHyLDKDDCHurGITxpihwYqm5fQRK6wm8ENzUXDWOvfMqv+3s1OOwi6ba4d60uuyezqTMIq26BryEYk4F8S0dYEKZjwX3hcuwNQSFzOpLnp5JLqmHrlHxW7J+VLcJnczuDyZQgArfAAAA"
 }

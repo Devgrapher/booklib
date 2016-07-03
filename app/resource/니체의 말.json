@@ -1,8 +1,6 @@
 {
-    "author": "프리드리히 <b>니체</b>",
-    "link": "http://openapi.naver.com/l?AAAC2NywrCMBREv+Z2IxTzsGkWWSS2RaooiiC4kcZEWrT2YVT696ZSOIvDDMN0b9sPAlIFsSeGdAkKg6Kj8AR4PBs7yYDPg7K3N1E61wKRgDOPbpp7+Cw+tg+vTT0FRk9yMdYV1SNsS7/IdGWAJIwiRDAOnEA0ighjlFO8wEEtBhkNcp2j89a4w353ZKvvKf/fKE+3efn1D+3tcBSuAAAA",
-    "title": "니체의 말",
     "image": "http://bookthumb.phinf.naver.net/cover/074/113/07411322.jpg?type=m1&udate=20140113",
+    "author": "프리드리히 <b>니체</b>",
     "publisher": "삼호미디어",
     "quotes": [
         {
@@ -153,5 +151,8 @@
             "page": 0,
             "text": "\n그러나 니체는 피안이 아닌, 지금 이 세상을 살고 있는 인간을 위한 도덕이 필요하다고 생각했다."
         }
-    ]
+    ],
+    "title": "니체의 말",
+    "pubdate": "2014-01-29",
+    "link": "http://openapi.naver.com/l?AAAC2LyQqDMBRFv+a5KYgZbJJFFo50USgdoNBNcYhoHZtGwb9vBOEsDvdyvrPSq4QkBG7hkEQQYgjpJiIGwQ/bFzAQnlNrVcnamAlIADi15OPYukO2KO0WY78PZb7Lu1Qmazp3qm2R5k0JJGYUIYKxYySiR+YjwX3PmtPLcxcNj1N7s/G8vu5Eq8+PLoQ9L9eusOUfqZgVAKoAAAA="
 }

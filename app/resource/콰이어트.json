@@ -1,8 +1,6 @@
 {
-    "author": "수잔 케인",
-    "link": "http://openapi.naver.com/l?AAAC3LsQqDMBSF4ae5jqImRh0yGDXgInQohS7FxEhErRpS2759UxHO8HHg317KfClUBbASWPBH5oAPkAMlpDmw1NNG9VRbuwLKIeJuYllG/9nuyvhymc+jEycenbLtMPmrdgUXQweoJBnGJA49S0NMCEqSOAhShL2ZfvbeyFuDZcXHu7iKqYaIyY28G15fXPkD22wS5KkAAAA=",
-    "title": "콰이어트",
     "image": "http://bookthumb.phinf.naver.net/cover/069/446/06944651.jpg?type=m1&udate=20150715",
+    "author": "수잔 케인",
     "publisher": "알에이치코리아",
     "quotes": [
         {
@@ -29,5 +27,8 @@
             "page": "106",
             "text": "내향성과 외향성은 음과 양의 관계이다. "
         }
-    ]
+    ],
+    "title": "콰이어트",
+    "pubdate": "2012-06-22",
+    "link": "http://openapi.naver.com/l?AAAC3LQQuCMBjG8U/zepSm29wOO7hsRBFU4MVLuLaaqWmygr59S4Tn8OOB/+ttp6+AzRpkAXL1Bw/AM+iMAlgOkkVusjfhvB8hzSFRYXoY2vhZf+wUX4d+OYxecDHW100Xjy4USjcG0oJyjClBkRcI04wgzkhGUxb1okKqOuitaSGRZblr+PmhTp225hiO/T20P7rWKp+rAAAA"
 }

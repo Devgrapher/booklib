@@ -1,8 +1,6 @@
 {
-    "author": "<b>칼</b> 요한 포셴 엘린",
-    "link": "http://openapi.naver.com/l?AAACssTS2qtFV1dVZ1slR1clbLKEpNs80oKSlQNXZUNXIDoqT8/Gy9vMSy1CK95PxcqEBKEpQRn5JakpiZo1eQAdThlpSZomrsYmlqaWphYalWYmtoYmZmbG5uamBgZmaglmub5eYTkhKVnJNs7lbkbemYV2VY7FkS6JxoUZUN1AcAGHGvx4wAAAA=",
-    "title": "칼",
     "image": "http://bookthumb.phinf.naver.net/cover/095/958/09595889.jpg?type=m1&udate=20151118",
+    "author": "<b>칼</b> 요한 포셴 엘린",
     "publisher": "박하",
     "quotes": [
         {
@@ -37,5 +35,8 @@
             "page": "159",
             "text": "원래의 자리란 없어요. 지금 여기 존재할 뿐. "
         }
-    ]
+    ],
+    "title": "칼",
+    "pubdate": "2015-10-12",
+    "link": "http://openapi.naver.com/l?AAACssTS2qtFV1dVZ1slR1clbLKEpNs80oKSlQNXZUNXIDoqT8/Gy9vMSy1CK95PxcqEBKEpQRn5JakpiZo1eQAdThlpSZomrsYmlqaWphYalWYmtoYmZuamhpYWpubGymlmtrkezpFOaSaxmRnRJcEJLuEVxpBjTHryyqPDK9GKgTAHFnzl6OAAAA"
 }

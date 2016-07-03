@@ -1,8 +1,6 @@
 {
-    "author": "파울로 코엘료",
-    "link": "http://openapi.naver.com/l?AAAC2LsQ6DIBQAv+Y5ElAEHBhQMf5AO3RpRGgwSrGGtunfl8Hkhssl93q74ydBd9DUIDrQLSgMQoDuoaEgaOEP95A+pR0qBeWQMTGu6Dl93IHmGM5gzSl369K0bGj3+RjMYqHqGS8FZ6RIklDGKs5pIwimRZD4MlLHg7ot7Dp/azsqh/2wsW2N+fsDu4O0Qp4AAAA=",
-    "title": "알레프",
     "image": "http://bookthumb.phinf.naver.net/cover/067/287/06728761.jpg?type=m1&udate=20110915",
+    "author": "파울로 코엘료",
     "publisher": "문학동네",
     "quotes": [
         {
@@ -101,5 +99,8 @@
             "page": "352",
             "text": "신께서 계획하신 길에서 벗어나는 것이 가능할까요? 네 가능합니다. 하지만 언제나 그건 실수입니다. 고통을 피하는 것이 가능할까요? 가능합니다. 하지만 아무것도 배우지 못할 겁니다. 무언가를 정말로 경험하지 않고도 안다는 것이 가능할까요? 네, 가능합니다. 하지만 그 일들이 진정으로 당신의 일부가 되지는 못할 겁니다 "
         }
-    ]
+    ],
+    "title": "알레프",
+    "pubdate": "2011-09-23",
+    "link": "http://openapi.naver.com/l?AAAC2LvQqDMBgAn+ZzDDXmd8jgT6SjUCx0KtokKFZj01hon74Owg3Hwb02G74KdAmSgihBF5CfQAjQFUgCgiRDsE4NMa6Q5YDrnd77CS3dxwb08PMRTH/I3djYjU+0DvtR96OBrGIcC87SJKqUME5TKSihjCWzcrYdt67x9dUWy9uRM740t6bVv4rs3x+hTdUxngAAAA=="
 }

@@ -1,8 +1,6 @@
 {
-    "author": "헨리 데이비드 소로",
-    "link": "http://openapi.naver.com/l?AAAC2Lyw6CMBREv+ayMSGUlj4WLGiBhJXGRKNuDEgVROSRCvHvLYZkFjNncoaPHr8hJAq4BKEgkRClINVCRAyCbxYkKXD+LxhksHyRDzxwqlHfw8qYHnAEfmpTdF3jvvNJj+6ta1dQFmu5ltrk9cvtK2ukRV0CjilDBCHimBARSjFjRDDPJ04bNvl53pnBuirLnvP+kOuTZxeavMv2+LDuD66qQXy+AAAA",
-    "title": "시민의 불복종",
     "image": "http://bookthumb.phinf.naver.net/cover/067/141/06714114.jpg?type=m1&udate=20151021",
+    "author": "헨리 데이비드 소로",
     "publisher": "은행나무",
     "quotes": [
         {
@@ -77,5 +75,8 @@
             "page": "68",
             "text": "우리가 알고 있는 바와 같은 민주주의가 정부가 도달할 수 있는 마지막 단계의 진보일까? "
         }
-    ]
+    ],
+    "title": "시민의 불복종",
+    "pubdate": "2011-08-22",
+    "link": "http://openapi.naver.com/l?AAAC2LywqDMBQFv+a6KYgxD5NFFkZNoCBdtV0WrSmR1kcltvj31SKcxTCHec92WiQUGXAFIoNCQapBZZsROQh+2JRiwPkfMCi6fWkMnAZusg/pvB8BpxDrdfUwPMO++tgpvA/dLpp6h1tjfdW+wtGtha7bBnDOEkQQIoGXiLCEIsEpjiISdNKWy/cEsZrNpTfOaF2Yz3JG15qNx3ItfyrRT+28AAAA"
 }

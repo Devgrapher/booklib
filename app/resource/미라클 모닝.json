@@ -1,13 +1,14 @@
 {
-    "author": "할 엘로드",
-    "link": "http://openapi.naver.com/l?AAAC2LvQqDMBhFn+ZzKUiMUeOQITG6FFooFNqpqImNVquV9Me3r4pwh8M9nNdbjxODVADPQNAFYgkigVQC9UCQ3eo48NXRRTtm1BUz1g7gc8DZvKLvH+4z/+jRLftuO1SxwU1pm9etO5i5yIpagS89hEmISeBY5pEw9KOIxAHC1OkYRfmh5eerPjXSoKNNquS7v0xV87vP4R8u4XU5sgAAAA==",
-    "title": "미라클 모닝",
     "image": "http://bookthumb.phinf.naver.net/cover/102/462/10246245.jpg?type=m1&udate=20160401",
+    "author": "할 엘로드",
     "publisher": "한빛비즈",
     "quotes": [
         {
             "page": "82",
             "text": "아침에 일어났을 때의 컨디션은 수면의 양보다는 일어났을 때 컨디션이 어떨 것이라고 스스로에게 한 암시에 더 큰 영향을 받는다. "
         }
-    ]
+    ],
+    "title": "미라클 모닝",
+    "pubdate": "2016-02-22",
+    "link": "http://openapi.naver.com/l?AAAC2LvQ6CMBRGn+aymBAvlFqGDq2lcdREO7gYkRJQkB+LhrcXCMk3nHwnpxtsP3JIJAgNks0QK5B7SBQwBEk2ixMgFsdm7RW9zXnhXAuhgEBPS5vm5b/vX9v7j6Zejyxd4ZZZdy8rvy2mQqdlBqHCbUBoQCLPcSR0F2HMIkRKvZqHB302n9aOz0qro/nlF5NcuwHNeJrCP7GREnayAAAA"
 }

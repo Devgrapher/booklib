@@ -1,8 +1,6 @@
 {
-    "author": "칼릴 지브란",
-    "link": "http://openapi.naver.com/l?AAAC2LSwuCQBRGf811E4g5D+8sZqGjgrQJqaBV+JhSynwwhf37JhO+xeF8nPGlp4+ERAH6ECpIIhAJoPoZEYPAzUIMkC4fgZD+FQLi0qFlp5n0VTbGDEBC8FO7su/v7rN468mt+m4VdbnCpdamaB/u0NgiLdsaSMy5R5hHHSO3lHMSBFQwROZ0MpuznMw23fGjOOQWUrNX1fnWjievq2z7BXXCelnIAAAA",
-    "title": "사람의 아들 예수",
     "image": "http://bookthumb.phinf.naver.net/cover/066/035/06603504.jpg?type=m1&udate=20150717",
+    "author": "칼릴 지브란",
     "publisher": "프리윌",
     "quotes": [
         {
@@ -49,5 +47,8 @@
             "page": 0,
             "text": "\n"
         }
-    ]
+    ],
+    "title": "사람의 아들 예수",
+    "pubdate": "2011-03-20",
+    "link": "http://openapi.naver.com/l?AAAC2LvQ6CMBhFn+ZjMSHQP78OHbBA4qKLk4ux/JUogqQQfHsrktzh5Nyc91SNHwWZBiSQaMgOIDNA/TMyBYm7lTggWz8KCfsrBMS1Q8+BHataWecGoAmQ3M/0/SN83edqDIu+20RpNriVlbu3z3CwvshNWwJNhYgoj1jgVMzEnscSOSFRFHTKXi/1yZfWnMU8Fe1xkc2ilybusGC+/AIN/lp7xgAAAA=="
 }
